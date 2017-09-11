@@ -1,0 +1,913 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AddConstant	../ThinkComplexity2\code\thinkstats2.py	/^    def AddConstant(self, other):$/;"	kind:member	line:671
+AddPmf	../ThinkComplexity2\code\thinkstats2.py	/^    def AddPmf(self, other):$/;"	kind:member	line:658
+AverageTitForTat	../ThinkComplexity2\code\iterPris\AverageTitForTat.py	/^class AverageTitForTat():$/;"	kind:class	line:1
+AverageTitForTat.py	../ThinkComplexity2\code\iterPris\AverageTitForTat.py	1;"	kind:file	line:1
+Bar	../ThinkComplexity2\code\thinkplot.py	/^def Bar(xs, ys, **options):$/;"	kind:function	line:287
+Beta	../ThinkComplexity2\code\thinkstats2.py	/^class Beta:$/;"	kind:class	line:2163
+BinomialCoef	../ThinkComplexity2\code\thinkstats2.py	/^def BinomialCoef(n, k):$/;"	kind:function	line:2350
+Boid	../ThinkComplexity2\code\Boids.py	/^class Boid(visual.cone):$/;"	kind:class	line:58
+Boids.py	../ThinkComplexity2\code\Boids.py	1;"	kind:file	line:1
+C	../ThinkComplexity2\code\Watts_fig.py	/^C = [x\/C[0] for x in C]$/;"	kind:variable	line:11
+C	../ThinkComplexity2\code\iterPris\ZeroDeterminant.py	/^C = 1$/;"	kind:variable	line:9
+CA	../ThinkComplexity2\code\CircularCA.py	/^from CA import CA$/;"	kind:namespace	line:13
+CADrawer	../ThinkComplexity2\code\CircularCA.py	/^import CADrawer$/;"	kind:namespace	line:12
+CADrawer	../ThinkComplexity2\code\Forest.py	/^    import CADrawer$/;"	kind:namespace	line:154
+CADrawer.py	../ThinkComplexity2\code\CADrawer.py	1;"	kind:file	line:1
+COLORS	../ThinkComplexity2\code\thinkcomplexity.py	/^COLORS = ['#8dd3c7','#ffffb3','#bebada','#fb8072','#80b1d3','#fdb462',$/;"	kind:variable	line:12
+Callable	../ThinkComplexity2\code\Callable.py	/^class Callable(object):$/;"	kind:class	line:10
+Callable.py	../ThinkComplexity2\code\Callable.py	1;"	kind:file	line:1
+Cdf	../ThinkComplexity2\code\cdf_example.py	/^    import Cdf$/;"	kind:namespace	line:32
+Cdf	../ThinkComplexity2\code\cdf_example.py	/^import Cdf$/;"	kind:namespace	line:14
+Cdf	../ThinkComplexity2\code\thinkplot.py	/^def Cdf(cdf, complement=False, transform=None, **options):$/;"	kind:function	line:487
+Cdf	../ThinkComplexity2\code\thinkstats2.py	/^class Cdf:$/;"	kind:class	line:980
+Cdfs	../ThinkComplexity2\code\thinkplot.py	/^def Cdfs(cdfs, complement=False, transform=None, **options):$/;"	kind:function	line:540
+Cell1D	../ThinkComplexity2\code\Cell1D.py	/^class Cell1D:$/;"	kind:class	line:24
+Cell1D.py	../ThinkComplexity2\code\Cell1D.py	1;"	kind:file	line:1
+Cell1DViewer	../ThinkComplexity2\code\Cell1D.py	/^class Cell1DViewer:$/;"	kind:class	line:102
+Cell2D	../ThinkComplexity2\code\Cell2D.py	/^class Cell2D:$/;"	kind:class	line:28
+Cell2D	../ThinkComplexity2\code\Life.py	/^from Cell2D import Cell2D, Cell2DViewer$/;"	kind:namespace	line:27
+Cell2D	../ThinkComplexity2\code\Sand.py	/^from Cell2D import Cell2D, Cell2DViewer$/;"	kind:namespace	line:6
+Cell2D.py	../ThinkComplexity2\code\Cell2D.py	1;"	kind:file	line:1
+Cell2DViewer	../ThinkComplexity2\code\Cell2D.py	/^class Cell2DViewer:$/;"	kind:class	line:55
+Cell2DViewer	../ThinkComplexity2\code\Life.py	/^from Cell2D import Cell2D, Cell2DViewer$/;"	kind:namespace	line:27
+Cell2DViewer	../ThinkComplexity2\code\Sand.py	/^from Cell2D import Cell2D, Cell2DViewer$/;"	kind:namespace	line:6
+Cell2DViewer	../ThinkComplexity2\code\Turmite.py	/^from Cell2D import Cell2DViewer$/;"	kind:namespace	line:18
+CentralMoment	../ThinkComplexity2\code\thinkstats2.py	/^def CentralMoment(xs, k):$/;"	kind:function	line:2746
+CheckAndChoose	../ThinkComplexity2\code\iterPris\CheckAndChoose.py	/^class CheckAndChoose():$/;"	kind:class	line:3
+CheckAndChoose.py	../ThinkComplexity2\code\iterPris\CheckAndChoose.py	1;"	kind:file	line:1
+CircularCA	../ThinkComplexity2\code\CircularCA.py	/^class CircularCA(CA):$/;"	kind:class	line:16
+CircularCA.py	../ThinkComplexity2\code\CircularCA.py	1;"	kind:file	line:1
+ClearIter	../ThinkComplexity2\code\thinkplot.py	/^    def ClearIter(cls):$/;"	kind:member	line:85
+Clf	../ThinkComplexity2\code\thinkplot.py	/^def Clf():$/;"	kind:function	line:201
+CoefDetermination	../ThinkComplexity2\code\thinkstats2.py	/^def CoefDetermination(ys, res):$/;"	kind:function	line:2698
+CohenEffectSize	../ThinkComplexity2\code\thinkstats2.py	/^def CohenEffectSize(group1, group2):$/;"	kind:function	line:2530
+ColorGenerator	../ThinkComplexity2\code\thinkplot.py	/^    def ColorGenerator(cls, num):$/;"	kind:member	line:68
+Colors	../ThinkComplexity2\code\thinkplot.py	/^    def Colors(cls):$/;"	kind:member	line:62
+Conditional	../ThinkComplexity2\code\thinkstats2.py	/^    def Conditional(self, i, j, val, label=None):$/;"	kind:member	line:805
+ConfidenceInterval	../ThinkComplexity2\code\thinkstats2.py	/^    ConfidenceInterval = CredibleInterval$/;"	kind:variable	line:1272
+Config	../ThinkComplexity2\code\thinkplot.py	/^def Config(**options):$/;"	kind:function	line:636
+Contour	../ThinkComplexity2\code\thinkplot.py	/^def Contour(obj, pcolor=False, contour=True, imshow=False, **options):$/;"	kind:function	line:552
+Cooperate	../ThinkComplexity2\code\iterPris\Cooperate.py	/^class Cooperate():$/;"	kind:class	line:1
+Cooperate.py	../ThinkComplexity2\code\iterPris\Cooperate.py	1;"	kind:file	line:1
+Copy	../ThinkComplexity2\code\thinkstats2.py	/^    def Copy(self, label=None):$/;"	kind:member	line:1076
+Copy	../ThinkComplexity2\code\thinkstats2.py	/^    def Copy(self, label=None):$/;"	kind:member	line:215
+Corr	../ThinkComplexity2\code\thinkstats2.py	/^def Corr(xs, ys):$/;"	kind:function	line:2573
+CorrelatedGenerator	../ThinkComplexity2\code\thinkstats2.py	/^def CorrelatedGenerator(rho):$/;"	kind:function	line:2711
+CorrelatedNormalGenerator	../ThinkComplexity2\code\thinkstats2.py	/^def CorrelatedNormalGenerator(mu, sigma, rho):$/;"	kind:function	line:2727
+Counter	../ThinkComplexity2\code\thinkstats2.py	/^from collections import Counter$/;"	kind:namespace	line:31
+Cov	../ThinkComplexity2\code\thinkstats2.py	/^def Cov(xs, ys, meanx=None, meany=None):$/;"	kind:function	line:2549
+CredibleInterval	../ThinkComplexity2\code\thinkstats2.py	/^    def CredibleInterval(self, percentage=90):$/;"	kind:member	line:1257
+CredibleInterval	../ThinkComplexity2\code\thinkstats2.py	/^    def CredibleInterval(self, percentage=90):$/;"	kind:member	line:630
+CredibleInterval	../ThinkComplexity2\code\thinkstats2.py	/^def CredibleInterval(pmf, percentage=90):$/;"	kind:function	line:1720
+D	../ThinkComplexity2\code\iterPris\ZeroDeterminant.py	/^D = 0$/;"	kind:variable	line:10
+DEFAULT_LABEL	../ThinkComplexity2\code\thinkstats2.py	/^DEFAULT_LABEL = '_nolegend_' $/;"	kind:variable	line:133
+Defect	../ThinkComplexity2\code\iterPris\Defect.py	/^class Defect():$/;"	kind:class	line:1
+Defect.py	../ThinkComplexity2\code\iterPris\Defect.py	1;"	kind:file	line:1
+Density	../ThinkComplexity2\code\thinkstats2.py	/^    def Density(self, x):$/;"	kind:member	line:1547
+Density	../ThinkComplexity2\code\thinkstats2.py	/^    def Density(self, xs):$/;"	kind:member	line:1635
+Density	../ThinkComplexity2\code\thinkstats2.py	/^    def Density(self, xs):$/;"	kind:member	line:1668
+Density	../ThinkComplexity2\code\thinkstats2.py	/^    def Density(self, xs):$/;"	kind:member	line:1703
+Diff	../ThinkComplexity2\code\thinkplot.py	/^def Diff(t):$/;"	kind:function	line:474
+Dirichlet	../ThinkComplexity2\code\thinkstats2.py	/^class Dirichlet(object):$/;"	kind:class	line:2256
+DivPmf	../ThinkComplexity2\code\thinkstats2.py	/^    def DivPmf(self, other):$/;"	kind:member	line:762
+Drawer	../ThinkComplexity2\code\CADrawer.py	/^class Drawer(object):$/;"	kind:class	line:18
+EPSDrawer	../ThinkComplexity2\code\CADrawer.py	/^class EPSDrawer(Drawer):$/;"	kind:class	line:126
+EPSDrawer	../ThinkComplexity2\code\Cell1D.py	/^class EPSDrawer:$/;"	kind:class	line:143
+Edge	../ThinkComplexity2\code\SmallWorldGraph.py	/^from Graph import Edge, Vertex$/;"	kind:namespace	line:16
+EstimatedPdf	../ThinkComplexity2\code\thinkstats2.py	/^class EstimatedPdf(Pdf):$/;"	kind:class	line:1678
+EvalBinomialPmf	../ThinkComplexity2\code\thinkstats2.py	/^def EvalBinomialPmf(k, n, p):$/;"	kind:function	line:1848
+EvalExponentialCdf	../ThinkComplexity2\code\thinkstats2.py	/^def EvalExponentialCdf(x, lam):$/;"	kind:function	line:1968
+EvalExponentialPdf	../ThinkComplexity2\code\thinkstats2.py	/^def EvalExponentialPdf(x, lam):$/;"	kind:function	line:1957
+EvalGammaPdf	../ThinkComplexity2\code\thinkstats2.py	/^def EvalGammaPdf(x, a):$/;"	kind:function	line:1867
+EvalGeometricPmf	../ThinkComplexity2\code\thinkstats2.py	/^def EvalGeometricPmf(k, p, loc=0):$/;"	kind:function	line:1893
+EvalHypergeomPmf	../ThinkComplexity2\code\thinkstats2.py	/^def EvalHypergeomPmf(k, N, K, n):$/;"	kind:function	line:1921
+EvalLognormalCdf	../ThinkComplexity2\code\thinkstats2.py	/^def EvalLognormalCdf(x, mu=0, sigma=1):$/;"	kind:function	line:2100
+EvalNormalCdf	../ThinkComplexity2\code\thinkstats2.py	/^def EvalNormalCdf(x, mu=0, sigma=1):$/;"	kind:function	line:2066
+EvalNormalCdfInverse	../ThinkComplexity2\code\thinkstats2.py	/^def EvalNormalCdfInverse(p, mu=0, sigma=1):$/;"	kind:function	line:2082
+EvalNormalPdf	../ThinkComplexity2\code\thinkstats2.py	/^def EvalNormalPdf(x, mu, sigma):$/;"	kind:function	line:1815
+EvalParetoPdf	../ThinkComplexity2\code\thinkstats2.py	/^def EvalParetoPdf(x, xm, alpha):$/;"	kind:function	line:2025
+EvalPdf	../ThinkComplexity2\code\thinkstats2.py	/^    def EvalPdf(self, x):$/;"	kind:member	line:2205
+EvalPoissonPmf	../ThinkComplexity2\code\thinkstats2.py	/^def EvalPoissonPmf(k, lam):$/;"	kind:function	line:1930
+EvalWeibullCdf	../ThinkComplexity2\code\thinkstats2.py	/^def EvalWeibullCdf(x, lam, k):$/;"	kind:function	line:2003
+EvalWeibullPdf	../ThinkComplexity2\code\thinkstats2.py	/^def EvalWeibullPdf(x, lam, k):$/;"	kind:function	line:1990
+Exp	../ThinkComplexity2\code\thinkstats2.py	/^    def Exp(self, m=None):$/;"	kind:member	line:264
+Expect	../ThinkComplexity2\code\thinkstats2.py	/^    def Expect(self, func):$/;"	kind:member	line:596
+ExponentialPdf	../ThinkComplexity2\code\thinkstats2.py	/^class ExponentialPdf(Pdf):$/;"	kind:class	line:1645
+Figure	../ThinkComplexity2\code\thinkplot.py	/^def Figure(**options):$/;"	kind:function	line:211
+FillBetween	../ThinkComplexity2\code\thinkplot.py	/^def FillBetween(xs, y1, y2=None, where=None, **options):$/;"	kind:function	line:272
+FitLine	../ThinkComplexity2\code\thinkstats2.py	/^def FitLine(xs, inter, slope):$/;"	kind:function	line:2668
+FixedWidthVariables	../ThinkComplexity2\code\thinkstats2.py	/^class FixedWidthVariables(object):$/;"	kind:class	line:2800
+Flipper	../ThinkComplexity2\code\iterPris\Flipper.py	/^class Flipper():$/;"	kind:class	line:3
+Flipper.py	../ThinkComplexity2\code\iterPris\Flipper.py	1;"	kind:file	line:1
+Forest	../ThinkComplexity2\code\Forest.py	/^class Forest(object):$/;"	kind:class	line:49
+Forest	../ThinkComplexity2\code\ForestFire.py	/^class Forest(CellWorld):$/;"	kind:class	line:7
+Forest.py	../ThinkComplexity2\code\Forest.py	1;"	kind:file	line:1
+ForestFire.py	../ThinkComplexity2\code\ForestFire.py	1;"	kind:file	line:1
+ForestViewer	../ThinkComplexity2\code\Forest.py	/^class ForestViewer(object):$/;"	kind:class	line:99
+Fourier.py	../ThinkComplexity2\code\Fourier.py	1;"	kind:file	line:1
+Freq	../ThinkComplexity2\code\thinkstats2.py	/^    def Freq(self, x):$/;"	kind:member	line:408
+Freqs	../ThinkComplexity2\code\thinkstats2.py	/^    def Freqs(self, xs):$/;"	kind:member	line:419
+GetDict	../ThinkComplexity2\code\thinkstats2.py	/^    def GetDict(self):$/;"	kind:member	line:281
+GetIter	../ThinkComplexity2\code\thinkplot.py	/^    def GetIter(cls, num):$/;"	kind:member	line:91
+GetLinspace	../ThinkComplexity2\code\thinkstats2.py	/^    def GetLinspace(self):$/;"	kind:member	line:1554
+GetLinspace	../ThinkComplexity2\code\thinkstats2.py	/^    def GetLinspace(self):$/;"	kind:member	line:1627
+GetLinspace	../ThinkComplexity2\code\thinkstats2.py	/^    def GetLinspace(self):$/;"	kind:member	line:1660
+GetLinspace	../ThinkComplexity2\code\thinkstats2.py	/^    def GetLinspace(self):$/;"	kind:member	line:1696
+GraphWorld	../ThinkComplexity2\code\SmallWorldGraph.py	/^from GraphWorld import GraphWorld$/;"	kind:namespace	line:17
+Gui	../ThinkComplexity2\code\CADrawer.py	/^            import Gui$/;"	kind:namespace	line:94
+Gui	../ThinkComplexity2\code\CADrawer.py	/^            import swampy.Gui$/;"	kind:namespace	line:96
+Heap	../ThinkComplexity2\code\SmallWorldGraph.py	/^from Heap import Heap$/;"	kind:namespace	line:15
+HexBin	../ThinkComplexity2\code\thinkplot.py	/^def HexBin(xs, ys, **options):$/;"	kind:function	line:317
+Hist	../ThinkComplexity2\code\Zipf1.py	/^class Hist(dict):$/;"	kind:class	line:5
+Hist	../ThinkComplexity2\code\Zipf2.py	/^class Hist(dict):$/;"	kind:class	line:5
+Hist	../ThinkComplexity2\code\thinkplot.py	/^def Hist(hist, **options):$/;"	kind:function	line:356
+Hist	../ThinkComplexity2\code\thinkstats2.py	/^class Hist(_DictWrapper):$/;"	kind:class	line:403
+Hists	../ThinkComplexity2\code\thinkplot.py	/^def Hists(hists, **options):$/;"	kind:function	line:400
+Hlines	../ThinkComplexity2\code\thinkplot.py	/^def Hlines(ys, x1, x2, **options):$/;"	kind:function	line:258
+HypothesisTest	../ThinkComplexity2\code\thinkstats2.py	/^class HypothesisTest(object):$/;"	kind:class	line:2973
+IQR	../ThinkComplexity2\code\thinkstats2.py	/^def IQR(xs):$/;"	kind:function	line:2778
+Image	../ThinkComplexity2\code\CADrawer.py	/^        import Image$/;"	kind:namespace	line:90
+ImageDraw	../ThinkComplexity2\code\CADrawer.py	/^        import ImageDraw$/;"	kind:namespace	line:91
+ImageTk	../ThinkComplexity2\code\CADrawer.py	/^        import ImageTk$/;"	kind:namespace	line:92
+Incr	../ThinkComplexity2\code\thinkstats2.py	/^    def Incr(self, x, term=1):$/;"	kind:member	line:351
+Inf	../ThinkComplexity2\code\SmallWorldGraph.py	/^Inf = float('Inf')$/;"	kind:variable	line:24
+InitIter	../ThinkComplexity2\code\thinkplot.py	/^    def InitIter(cls, num):$/;"	kind:member	line:78
+Interpolator	../ThinkComplexity2\code\thinkstats2.py	/^class Interpolator(object):$/;"	kind:class	line:99
+IsSubset	../ThinkComplexity2\code\thinkstats2.py	/^    def IsSubset(self, other):$/;"	kind:member	line:423
+Items	../ThinkComplexity2\code\thinkstats2.py	/^    def Items(self):$/;"	kind:member	line:1091
+Items	../ThinkComplexity2\code\thinkstats2.py	/^    def Items(self):$/;"	kind:member	line:1604
+Items	../ThinkComplexity2\code\thinkstats2.py	/^    def Items(self):$/;"	kind:member	line:298
+Jitter	../ThinkComplexity2\code\thinkstats2.py	/^def Jitter(values, jitter=0.5):$/;"	kind:function	line:2396
+Joint	../ThinkComplexity2\code\thinkstats2.py	/^class Joint(Pmf):$/;"	kind:class	line:787
+L	../ThinkComplexity2\code\Watts_fig.py	/^L = [x\/L[0] for x in L]$/;"	kind:variable	line:10
+LEGEND	../ThinkComplexity2\code\thinkplot.py	/^LEGEND = True$/;"	kind:variable	line:633
+LOC	../ThinkComplexity2\code\thinkplot.py	/^LOC = None$/;"	kind:variable	line:634
+Largest	../ThinkComplexity2\code\thinkstats2.py	/^    def Largest(self, n=10):$/;"	kind:member	line:388
+LeastSquares	../ThinkComplexity2\code\thinkstats2.py	/^def LeastSquares(xs, ys):$/;"	kind:function	line:2649
+Life	../ThinkComplexity2\code\Life.py	/^class Life(Cell2D):$/;"	kind:class	line:30
+Life	../ThinkComplexity2\code\LifeRabbits.py	/^from Life import Life, LifeViewer$/;"	kind:namespace	line:14
+Life.py	../ThinkComplexity2\code\Life.py	1;"	kind:file	line:1
+LifeRabbits.py	../ThinkComplexity2\code\LifeRabbits.py	1;"	kind:file	line:1
+LifeViewer	../ThinkComplexity2\code\Life.py	/^class LifeViewer(Cell2DViewer):$/;"	kind:class	line:45
+LifeViewer	../ThinkComplexity2\code\LifeRabbits.py	/^from Life import Life, LifeViewer$/;"	kind:namespace	line:14
+Likelihood	../ThinkComplexity2\code\thinkstats2.py	/^    def Likelihood(self, data):$/;"	kind:member	line:2293
+Likelihood	../ThinkComplexity2\code\thinkstats2.py	/^    def Likelihood(self, data, hypo):$/;"	kind:member	line:1457
+Log	../ThinkComplexity2\code\thinkstats2.py	/^    def Log(self, m=None):$/;"	kind:member	line:244
+LogBinomialCoef	../ThinkComplexity2\code\thinkstats2.py	/^def LogBinomialCoef(n, k):$/;"	kind:function	line:2361
+LogLikelihood	../ThinkComplexity2\code\thinkstats2.py	/^    def LogLikelihood(self, data):$/;"	kind:member	line:2309
+LogLikelihood	../ThinkComplexity2\code\thinkstats2.py	/^    def LogLikelihood(self, data, hypo):$/;"	kind:member	line:1465
+LogUpdate	../ThinkComplexity2\code\thinkstats2.py	/^    def LogUpdate(self, data):$/;"	kind:member	line:1410
+LogUpdateSet	../ThinkComplexity2\code\thinkstats2.py	/^    def LogUpdateSet(self, dataset):$/;"	kind:member	line:1444
+Lookup	../ThinkComplexity2\code\thinkstats2.py	/^    def Lookup(self, x):$/;"	kind:member	line:111
+MAP	../ThinkComplexity2\code\thinkstats2.py	/^    MAP = Mode$/;"	kind:variable	line:624
+MAP	../ThinkComplexity2\code\thinkstats2.py	/^    def MAP(self):$/;"	kind:member	line:2187
+MakeBinomialPmf	../ThinkComplexity2\code\thinkstats2.py	/^def MakeBinomialPmf(n, p):$/;"	kind:function	line:1856
+MakeCdf	../ThinkComplexity2\code\thinkstats2.py	/^    def MakeCdf(self, label=None):$/;"	kind:member	line:332
+MakeCdf	../ThinkComplexity2\code\thinkstats2.py	/^    def MakeCdf(self, steps=101):$/;"	kind:member	line:2239
+MakeCdfFromDict	../ThinkComplexity2\code\thinkstats2.py	/^def MakeCdfFromDict(d, label=None):$/;"	kind:function	line:1333
+MakeCdfFromHist	../ThinkComplexity2\code\thinkstats2.py	/^def MakeCdfFromHist(hist, label=None):$/;"	kind:function	line:1359
+MakeCdfFromItems	../ThinkComplexity2\code\thinkstats2.py	/^def MakeCdfFromItems(items, label=None):$/;"	kind:function	line:1320
+MakeCdfFromList	../ThinkComplexity2\code\thinkstats2.py	/^def MakeCdfFromList(seq, label=None):$/;"	kind:function	line:1346
+MakeCdfFromPmf	../ThinkComplexity2\code\thinkstats2.py	/^def MakeCdfFromPmf(pmf, label=None):$/;"	kind:function	line:1375
+MakeExponentialPmf	../ThinkComplexity2\code\thinkstats2.py	/^def MakeExponentialPmf(lam, high, n=200):$/;"	kind:function	line:1973
+MakeGammaPmf	../ThinkComplexity2\code\thinkstats2.py	/^def MakeGammaPmf(xs, a):$/;"	kind:function	line:1878
+MakeGeometricPmf	../ThinkComplexity2\code\thinkstats2.py	/^def MakeGeometricPmf(p, loc=0, high=10):$/;"	kind:function	line:1905
+MakeHistFromDict	../ThinkComplexity2\code\thinkstats2.py	/^def MakeHistFromDict(d, label=None):$/;"	kind:function	line:882
+MakeHistFromList	../ThinkComplexity2\code\thinkstats2.py	/^def MakeHistFromList(t, label=None):$/;"	kind:function	line:869
+MakeJoint	../ThinkComplexity2\code\thinkstats2.py	/^def MakeJoint(pmf1, pmf2):$/;"	kind:function	line:850
+MakeMixture	../ThinkComplexity2\code\thinkstats2.py	/^def MakeMixture(metapmf, label='mix'):$/;"	kind:function	line:950
+MakeModel	../ThinkComplexity2\code\thinkstats2.py	/^    def MakeModel(self):$/;"	kind:member	line:3023
+MakeNormalPmf	../ThinkComplexity2\code\thinkstats2.py	/^def MakeNormalPmf(mu, sigma, num_sigmas, n=201):$/;"	kind:function	line:1827
+MakeOdds	../ThinkComplexity2\code\thinkstats2.py	/^    def MakeOdds(self):$/;"	kind:member	line:1478
+MakeParetoPmf	../ThinkComplexity2\code\thinkstats2.py	/^def MakeParetoPmf(xm, alpha, high, num=101):$/;"	kind:function	line:2036
+MakePmf	../ThinkComplexity2\code\thinkstats2.py	/^    def MakePmf(self, **options):$/;"	kind:member	line:1563
+MakePmf	../ThinkComplexity2\code\thinkstats2.py	/^    def MakePmf(self, label=None):$/;"	kind:member	line:1085
+MakePmf	../ThinkComplexity2\code\thinkstats2.py	/^    def MakePmf(self, steps=101, label=None):$/;"	kind:member	line:2209
+MakePmfFromDict	../ThinkComplexity2\code\thinkstats2.py	/^def MakePmfFromDict(d, label=None):$/;"	kind:function	line:908
+MakePmfFromHist	../ThinkComplexity2\code\thinkstats2.py	/^def MakePmfFromHist(hist, label=None):$/;"	kind:function	line:934
+MakePmfFromItems	../ThinkComplexity2\code\thinkstats2.py	/^def MakePmfFromItems(t, label=None):$/;"	kind:function	line:921
+MakePmfFromList	../ThinkComplexity2\code\thinkstats2.py	/^def MakePmfFromList(t, label=None):$/;"	kind:function	line:895
+MakePoissonPmf	../ThinkComplexity2\code\thinkstats2.py	/^def MakePoissonPmf(lam, high, step=1):$/;"	kind:function	line:1941
+MakeProbs	../ThinkComplexity2\code\thinkstats2.py	/^    def MakeProbs(self):$/;"	kind:member	line:1489
+MakeSuiteFromDict	../ThinkComplexity2\code\thinkstats2.py	/^def MakeSuiteFromDict(d, label=None):$/;"	kind:function	line:1528
+MakeSuiteFromHist	../ThinkComplexity2\code\thinkstats2.py	/^def MakeSuiteFromHist(hist, label=None):$/;"	kind:function	line:1510
+MakeSuiteFromList	../ThinkComplexity2\code\thinkstats2.py	/^def MakeSuiteFromList(t, label=None):$/;"	kind:function	line:1495
+MakeUniformPmf	../ThinkComplexity2\code\thinkstats2.py	/^def MakeUniformPmf(low, high, n):$/;"	kind:function	line:966
+MakeWeibullPmf	../ThinkComplexity2\code\thinkstats2.py	/^def MakeWeibullPmf(lam, k, high, n=200):$/;"	kind:function	line:2009
+MapToRanks	../ThinkComplexity2\code\thinkstats2.py	/^def MapToRanks(t):$/;"	kind:function	line:2623
+Marginal	../ThinkComplexity2\code\thinkstats2.py	/^    def Marginal(self, i, label=None):$/;"	kind:member	line:793
+MarginalBeta	../ThinkComplexity2\code\thinkstats2.py	/^    def MarginalBeta(self, i):$/;"	kind:member	line:2324
+Match	../ThinkComplexity2\code\iterPris\Match.py	/^class Match():$/;"	kind:class	line:1
+Match.py	../ThinkComplexity2\code\iterPris\Match.py	1;"	kind:file	line:1
+Max	../ThinkComplexity2\code\thinkstats2.py	/^    def Max(self, k):$/;"	kind:member	line:1308
+Max	../ThinkComplexity2\code\thinkstats2.py	/^    def Max(self, k):$/;"	kind:member	line:775
+MaxLike	../ThinkComplexity2\code\thinkstats2.py	/^    def MaxLike(self):$/;"	kind:member	line:384
+MaxLikeInterval	../ThinkComplexity2\code\thinkstats2.py	/^    def MaxLikeInterval(self, percentage=90):$/;"	kind:member	line:825
+MaxTestStat	../ThinkComplexity2\code\thinkstats2.py	/^    def MaxTestStat(self):$/;"	kind:member	line:3001
+MaximumLikelihood	../ThinkComplexity2\code\thinkstats2.py	/^    MaximumLikelihood = Mode$/;"	kind:variable	line:628
+Mean	../ThinkComplexity2\code\thinkstats2.py	/^    def Mean(self):$/;"	kind:member	line:1243
+Mean	../ThinkComplexity2\code\thinkstats2.py	/^    def Mean(self):$/;"	kind:member	line:2183
+Mean	../ThinkComplexity2\code\thinkstats2.py	/^    def Mean(self):$/;"	kind:member	line:567
+Mean	../ThinkComplexity2\code\thinkstats2.py	/^def Mean(xs):$/;"	kind:function	line:2426
+MeanVar	../ThinkComplexity2\code\thinkstats2.py	/^def MeanVar(xs, ddof=0):$/;"	kind:function	line:2467
+Median	../ThinkComplexity2\code\thinkstats2.py	/^    def Median(self):$/;"	kind:member	line:575
+Median	../ThinkComplexity2\code\thinkstats2.py	/^def Median(xs):$/;"	kind:function	line:2767
+Mode	../ThinkComplexity2\code\thinkstats2.py	/^    def Mode(self):$/;"	kind:member	line:615
+MulConstant	../ThinkComplexity2\code\thinkstats2.py	/^    def MulConstant(self, other):$/;"	kind:member	line:736
+MulPmf	../ThinkComplexity2\code\thinkstats2.py	/^    def MulPmf(self, other):$/;"	kind:member	line:723
+Mult	../ThinkComplexity2\code\thinkstats2.py	/^    def Mult(self, x, factor):$/;"	kind:member	line:360
+NormalPdf	../ThinkComplexity2\code\thinkstats2.py	/^class NormalPdf(Pdf):$/;"	kind:class	line:1610
+NormalProbability	../ThinkComplexity2\code\thinkstats2.py	/^def NormalProbability(ys, jitter=0):$/;"	kind:function	line:2375
+NormalProbabilityPlot	../ThinkComplexity2\code\thinkstats2.py	/^def NormalProbabilityPlot(sample, fit_color='0.8', **options):$/;"	kind:function	line:2408
+Normalize	../ThinkComplexity2\code\thinkstats2.py	/^    def Normalize(self, fraction=1):$/;"	kind:member	line:519
+NullPatch	../ThinkComplexity2\code\ForestFire.py	/^    class NullPatch:$/;"	kind:class	line:244
+Odds	../ThinkComplexity2\code\thinkstats2.py	/^def Odds(p):$/;"	kind:function	line:59
+PILDrawer	../ThinkComplexity2\code\CADrawer.py	/^class PILDrawer(Drawer):$/;"	kind:class	line:83
+PValue	../ThinkComplexity2\code\thinkstats2.py	/^    def PValue(self, iters=1000):$/;"	kind:member	line:2987
+Patch	../ThinkComplexity2\code\ForestFire.py	/^class Patch(Cell):$/;"	kind:class	line:193
+Patrick	../ThinkComplexity2\code\iterPris\Patrick.py	/^class Patrick():$/;"	kind:class	line:3
+Patrick.py	../ThinkComplexity2\code\iterPris\Patrick.py	1;"	kind:file	line:1
+Pcolor	../ThinkComplexity2\code\thinkplot.py	/^def Pcolor(xs, ys, zs, pcolor=True, contour=False, **options):$/;"	kind:function	line:591
+Pdf	../ThinkComplexity2\code\thinkplot.py	/^def Pdf(pdf, **options):$/;"	kind:function	line:328
+Pdf	../ThinkComplexity2\code\thinkstats2.py	/^class Pdf(object):$/;"	kind:class	line:1544
+Pdfs	../ThinkComplexity2\code\thinkplot.py	/^def Pdfs(pdfs, **options):$/;"	kind:function	line:342
+PearsonMedianSkewness	../ThinkComplexity2\code\thinkstats2.py	/^def PearsonMedianSkewness(xs):$/;"	kind:function	line:2789
+Percentile	../ThinkComplexity2\code\thinkstats2.py	/^    def Percentile(self, p):$/;"	kind:member	line:1189
+Percentile	../ThinkComplexity2\code\thinkstats2.py	/^    def Percentile(self, percentage):$/;"	kind:member	line:460
+Percentile	../ThinkComplexity2\code\thinkstats2.py	/^    def Percentile(self, ps):$/;"	kind:member	line:2246
+PercentileRank	../ThinkComplexity2\code\thinkstats2.py	/^    def PercentileRank(self, x):$/;"	kind:member	line:1212
+PercentileRanks	../ThinkComplexity2\code\thinkstats2.py	/^    def PercentileRanks(self, xs):$/;"	kind:member	line:1221
+PercentileRow	../ThinkComplexity2\code\thinkstats2.py	/^def PercentileRow(array, p):$/;"	kind:function	line:2927
+PercentileRows	../ThinkComplexity2\code\thinkstats2.py	/^def PercentileRows(ys_seq, percents):$/;"	kind:function	line:2939
+Percentiles	../ThinkComplexity2\code\thinkstats2.py	/^    def Percentiles(self, ps):$/;"	kind:member	line:1200
+Plot	../ThinkComplexity2\code\thinkplot.py	/^def Plot(obj, ys=None, style='', **options):$/;"	kind:function	line:217
+PlotCdf	../ThinkComplexity2\code\thinkstats2.py	/^    def PlotCdf(self, label=None):$/;"	kind:member	line:3006
+Plotly	../ThinkComplexity2\code\thinkplot.py	/^def Plotly(**options):$/;"	kind:function	line:694
+Pmf	../ThinkComplexity2\code\Zipf.py	/^import Pmf$/;"	kind:namespace	line:15
+Pmf	../ThinkComplexity2\code\thinkplot.py	/^def Pmf(pmf, **options):$/;"	kind:function	line:414
+Pmf	../ThinkComplexity2\code\thinkstats2.py	/^class Pmf(_DictWrapper):$/;"	kind:class	line:437
+PmfProbEqual	../ThinkComplexity2\code\thinkstats2.py	/^def PmfProbEqual(pmf1, pmf2):$/;"	kind:function	line:1774
+PmfProbGreater	../ThinkComplexity2\code\thinkstats2.py	/^def PmfProbGreater(pmf1, pmf2):$/;"	kind:function	line:1756
+PmfProbLess	../ThinkComplexity2\code\thinkstats2.py	/^def PmfProbLess(pmf1, pmf2):$/;"	kind:function	line:1738
+Pmfs	../ThinkComplexity2\code\thinkplot.py	/^def Pmfs(pmfs, **options):$/;"	kind:function	line:460
+PrePlot	../ThinkComplexity2\code\thinkplot.py	/^def PrePlot(num=None, rows=None, cols=None):$/;"	kind:function	line:125
+PredictivePmf	../ThinkComplexity2\code\thinkstats2.py	/^    def PredictivePmf(self, xs, label=None):$/;"	kind:member	line:2338
+Print	../ThinkComplexity2\code\thinkstats2.py	/^    def Print(self):$/;"	kind:member	line:1071
+Print	../ThinkComplexity2\code\thinkstats2.py	/^    def Print(self):$/;"	kind:member	line:1473
+Print	../ThinkComplexity2\code\thinkstats2.py	/^    def Print(self):$/;"	kind:member	line:337
+Prob	../ThinkComplexity2\code\thinkstats2.py	/^    def Prob(self, x):$/;"	kind:member	line:1121
+Prob	../ThinkComplexity2\code\thinkstats2.py	/^    def Prob(self, x, default=0):$/;"	kind:member	line:444
+ProbArray	../ThinkComplexity2\code\thinkstats2.py	/^    ProbArray = Probs$/;"	kind:variable	line:1149
+ProbEqual	../ThinkComplexity2\code\thinkstats2.py	/^    def ProbEqual(self, x):$/;"	kind:member	line:503
+ProbGreater	../ThinkComplexity2\code\thinkstats2.py	/^    def ProbGreater(self, x):$/;"	kind:member	line:477
+ProbLess	../ThinkComplexity2\code\thinkstats2.py	/^    def ProbLess(self, x):$/;"	kind:member	line:490
+Probability	../ThinkComplexity2\code\thinkstats2.py	/^def Probability(o):$/;"	kind:function	line:77
+Probability2	../ThinkComplexity2\code\thinkstats2.py	/^def Probability2(yes, no):$/;"	kind:function	line:89
+Probs	../ThinkComplexity2\code\thinkstats2.py	/^    def Probs(self, xs):$/;"	kind:member	line:1136
+Probs	../ThinkComplexity2\code\thinkstats2.py	/^    def Probs(self, xs):$/;"	kind:member	line:456
+PyplotDrawer	../ThinkComplexity2\code\CADrawer.py	/^class PyplotDrawer(Drawer):$/;"	kind:class	line:56
+ROOT2	../ThinkComplexity2\code\thinkstats2.py	/^ROOT2 = math.sqrt(2)$/;"	kind:variable	line:48
+Random	../ThinkComplexity2\code\thinkstats2.py	/^    def Random(self):$/;"	kind:member	line:1230
+Random	../ThinkComplexity2\code\thinkstats2.py	/^    def Random(self):$/;"	kind:member	line:2193
+Random	../ThinkComplexity2\code\thinkstats2.py	/^    def Random(self):$/;"	kind:member	line:2285
+Random	../ThinkComplexity2\code\thinkstats2.py	/^    def Random(self):$/;"	kind:member	line:540
+RandomGraph	../ThinkComplexity2\code\SmallWorldGraph.py	/^from RandomGraph import RandomGraph$/;"	kind:namespace	line:18
+RandomSeed	../ThinkComplexity2\code\thinkstats2.py	/^def RandomSeed(x):$/;"	kind:function	line:50
+RandomSum	../ThinkComplexity2\code\thinkstats2.py	/^def RandomSum(dists):$/;"	kind:function	line:1792
+RawMoment	../ThinkComplexity2\code\thinkstats2.py	/^def RawMoment(xs, k):$/;"	kind:function	line:2740
+ReadFixedWidth	../ThinkComplexity2\code\thinkstats2.py	/^    def ReadFixedWidth(self, filename, **options):$/;"	kind:member	line:2822
+ReadStataDct	../ThinkComplexity2\code\thinkstats2.py	/^def ReadStataDct(dct_file, **options):$/;"	kind:function	line:2836
+RegularPolygon	../ThinkComplexity2\code\Turmite.py	/^from matplotlib.patches import RegularPolygon$/;"	kind:namespace	line:16
+Remove	../ThinkComplexity2\code\thinkstats2.py	/^    def Remove(self, x):$/;"	kind:member	line:369
+Render	../ThinkComplexity2\code\thinkstats2.py	/^    def Render(self, **options):$/;"	kind:member	line:1284
+Render	../ThinkComplexity2\code\thinkstats2.py	/^    def Render(self, **options):$/;"	kind:member	line:1578
+Render	../ThinkComplexity2\code\thinkstats2.py	/^    def Render(self, **options):$/;"	kind:member	line:322
+RenderExpoCdf	../ThinkComplexity2\code\thinkstats2.py	/^def RenderExpoCdf(lam, low, high, n=101):$/;"	kind:function	line:2112
+RenderNormalCdf	../ThinkComplexity2\code\thinkstats2.py	/^def RenderNormalCdf(mu, sigma, low, high, n=101):$/;"	kind:function	line:2128
+RenderParetoCdf	../ThinkComplexity2\code\thinkstats2.py	/^def RenderParetoCdf(xmin, alpha, low, high, n=50):$/;"	kind:function	line:2144
+Resample	../ThinkComplexity2\code\thinkstats2.py	/^def Resample(xs, n=None):$/;"	kind:function	line:2875
+ResampleRows	../ThinkComplexity2\code\thinkstats2.py	/^def ResampleRows(df):$/;"	kind:function	line:2902
+ResampleRowsWeighted	../ThinkComplexity2\code\thinkstats2.py	/^def ResampleRowsWeighted(df, column='finalwgt'):$/;"	kind:function	line:2912
+Residuals	../ThinkComplexity2\code\thinkstats2.py	/^def Residuals(xs, ys, inter, slope):$/;"	kind:function	line:2680
+ResponsiveTFTMod	../ThinkComplexity2\code\iterPris\ResponsiveTFTMod.py	/^class ResponsiveTFTMod():$/;"	kind:class	line:3
+ResponsiveTFTMod.py	../ThinkComplexity2\code\iterPris\ResponsiveTFTMod.py	1;"	kind:file	line:1
+Reverse	../ThinkComplexity2\code\thinkstats2.py	/^    def Reverse(self, y):$/;"	kind:member	line:115
+RunModel	../ThinkComplexity2\code\thinkstats2.py	/^    def RunModel(self):$/;"	kind:member	line:3028
+SPTFT	../ThinkComplexity2\code\iterPris\suspiciousProbingTFT.py	/^class SPTFT():$/;"	kind:class	line:2
+SafeBet.py	../ThinkComplexity2\code\iterPris\SafeBet.py	1;"	kind:file	line:1
+Sample	../ThinkComplexity2\code\thinkstats2.py	/^    def Sample(self, n):$/;"	kind:member	line:1234
+Sample	../ThinkComplexity2\code\thinkstats2.py	/^    def Sample(self, n):$/;"	kind:member	line:1710
+Sample	../ThinkComplexity2\code\thinkstats2.py	/^    def Sample(self, n):$/;"	kind:member	line:2197
+Sample	../ThinkComplexity2\code\thinkstats2.py	/^    def Sample(self, n):$/;"	kind:member	line:559
+SampleRows	../ThinkComplexity2\code\thinkstats2.py	/^def SampleRows(df, nrows, replace=False):$/;"	kind:function	line:2888
+SampleSum	../ThinkComplexity2\code\thinkstats2.py	/^def SampleSum(dists, n):$/;"	kind:function	line:1803
+Sand.py	../ThinkComplexity2\code\Sand.py	1;"	kind:file	line:1
+SandPile	../ThinkComplexity2\code\Sand.py	/^class SandPile(Cell2D):$/;"	kind:class	line:10
+SandPileViewer	../ThinkComplexity2\code\Sand.py	/^class SandPileViewer(Cell2DViewer):$/;"	kind:class	line:75
+Save	../ThinkComplexity2\code\thinkplot.py	/^def Save(root=None, formats=None, **options):$/;"	kind:function	line:710
+SaveFormat	../ThinkComplexity2\code\thinkplot.py	/^def SaveFormat(root, fmt='eps', **options):$/;"	kind:function	line:745
+Scale	../ThinkComplexity2\code\thinkstats2.py	/^    def Scale(self, factor):$/;"	kind:member	line:1111
+Scale	../ThinkComplexity2\code\thinkstats2.py	/^    def Scale(self, factor):$/;"	kind:member	line:230
+Scatter	../ThinkComplexity2\code\thinkplot.py	/^def Scatter(xs, ys=None, **options):$/;"	kind:function	line:300
+SerialCorr	../ThinkComplexity2\code\thinkstats2.py	/^def SerialCorr(series, lag=1):$/;"	kind:function	line:2594
+Set	../ThinkComplexity2\code\thinkstats2.py	/^    def Set(self, x, y=0):$/;"	kind:member	line:342
+SetDict	../ThinkComplexity2\code\thinkstats2.py	/^    def SetDict(self, d):$/;"	kind:member	line:285
+Shift	../ThinkComplexity2\code\thinkstats2.py	/^    def Shift(self, term):$/;"	kind:member	line:1101
+Show	../ThinkComplexity2\code\thinkplot.py	/^def Show(**options):$/;"	kind:function	line:680
+Skewness	../ThinkComplexity2\code\thinkstats2.py	/^def Skewness(xs):$/;"	kind:function	line:2761
+SmallGraph.py	../ThinkComplexity2\code\SmallGraph.py	1;"	kind:file	line:1
+SmallWorldGraph	../ThinkComplexity2\code\SmallWorldGraph.py	/^class SmallWorldGraph(RandomGraph):$/;"	kind:class	line:26
+SmallWorldGraph.py	../ThinkComplexity2\code\SmallWorldGraph.py	1;"	kind:file	line:1
+Smallest	../ThinkComplexity2\code\thinkstats2.py	/^    def Smallest(self, n=10):$/;"	kind:member	line:395
+Smart	../ThinkComplexity2\code\iterPris\Smart.py	/^class Smart():$/;"	kind:class	line:3
+Smart.py	../ThinkComplexity2\code\iterPris\Smart.py	1;"	kind:file	line:1
+Smooth	../ThinkComplexity2\code\thinkstats2.py	/^def Smooth(xs, sigma=2, **options):$/;"	kind:function	line:2964
+SortedItems	../ThinkComplexity2\code\thinkstats2.py	/^    def SortedItems(self):$/;"	kind:member	line:302
+SpearmanCorr	../ThinkComplexity2\code\thinkstats2.py	/^def SpearmanCorr(xs, ys):$/;"	kind:function	line:2608
+StandardNormalCdf	../ThinkComplexity2\code\thinkstats2.py	/^def StandardNormalCdf(x):$/;"	kind:function	line:2051
+StandardizedMoment	../ThinkComplexity2\code\thinkstats2.py	/^def StandardizedMoment(xs, k):$/;"	kind:function	line:2753
+Std	../ThinkComplexity2\code\thinkstats2.py	/^    def Std(self, mu=None):$/;"	kind:member	line:604
+Std	../ThinkComplexity2\code\thinkstats2.py	/^def Std(xs, mu=None, ddof=0):$/;"	kind:function	line:2454
+SubPlot	../ThinkComplexity2\code\thinkplot.py	/^def SubPlot(plot_number, rows=None, cols=None, **options):$/;"	kind:function	line:171
+SubPmf	../ThinkComplexity2\code\thinkstats2.py	/^    def SubPmf(self, other):$/;"	kind:member	line:698
+Subtract	../ThinkComplexity2\code\thinkstats2.py	/^    def Subtract(self, other):$/;"	kind:member	line:431
+Suite	../ThinkComplexity2\code\thinkstats2.py	/^class Suite(Pmf):$/;"	kind:class	line:1395
+TFTMemory	../ThinkComplexity2\code\iterPris\TFTMemory.py	/^class TFTMemory():$/;"	kind:class	line:3
+TFTMemory.py	../ThinkComplexity2\code\iterPris\TFTMemory.py	1;"	kind:file	line:1
+TestStatistic	../ThinkComplexity2\code\thinkstats2.py	/^    def TestStatistic(self, data):$/;"	kind:member	line:3016
+Text	../ThinkComplexity2\code\thinkplot.py	/^def Text(x, y, s, **options):$/;"	kind:function	line:618
+TitForTat	../ThinkComplexity2\code\iterPris\TitForTat.py	/^class TitForTat():$/;"	kind:class	line:1
+TitForTat.py	../ThinkComplexity2\code\iterPris\TitForTat.py	1;"	kind:file	line:1
+TitForTwoTats	../ThinkComplexity2\code\iterPris\TitForTwoTats.py	/^class TitForTwoTats():$/;"	kind:class	line:1
+TitForTwoTats.py	../ThinkComplexity2\code\iterPris\TitForTwoTats.py	1;"	kind:file	line:1
+Total	../ThinkComplexity2\code\thinkstats2.py	/^    def Total(self):$/;"	kind:member	line:379
+Trim	../ThinkComplexity2\code\thinkstats2.py	/^def Trim(t, p=0.01):$/;"	kind:function	line:2484
+TrimmedMean	../ThinkComplexity2\code\thinkstats2.py	/^def TrimmedMean(t, p=0.01):$/;"	kind:function	line:2499
+TrimmedMeanVar	../ThinkComplexity2\code\thinkstats2.py	/^def TrimmedMeanVar(t, p=0.01):$/;"	kind:function	line:2513
+Trustworthy	../ThinkComplexity2\code\iterPris\SafeBet.py	/^class Trustworthy():$/;"	kind:class	line:3
+Trustworthy	../ThinkComplexity2\code\iterPris\Trustworthy.py	/^class Trustworthy():$/;"	kind:class	line:3
+Trustworthy.py	../ThinkComplexity2\code\iterPris\Trustworthy.py	1;"	kind:file	line:1
+Turmite	../ThinkComplexity2\code\Turmite.py	/^class Turmite:$/;"	kind:class	line:29
+Turmite.py	../ThinkComplexity2\code\Turmite.py	1;"	kind:file	line:1
+TurmiteViewer	../ThinkComplexity2\code\Turmite.py	/^class TurmiteViewer(Cell2DViewer):$/;"	kind:class	line:72
+UnimplementedMethodException	../ThinkComplexity2\code\CADrawer.py	/^class UnimplementedMethodException(Exception):$/;"	kind:class	line:13
+UnimplementedMethodException	../ThinkComplexity2\code\thinkstats2.py	/^class UnimplementedMethodException(Exception):$/;"	kind:class	line:1391
+Update	../ThinkComplexity2\code\thinkstats2.py	/^    def Update(self, data):$/;"	kind:member	line:1398
+Update	../ThinkComplexity2\code\thinkstats2.py	/^    def Update(self, data):$/;"	kind:member	line:2174
+Update	../ThinkComplexity2\code\thinkstats2.py	/^    def Update(self, data):$/;"	kind:member	line:2277
+UpdateSet	../ThinkComplexity2\code\thinkstats2.py	/^    def UpdateSet(self, dataset):$/;"	kind:member	line:1425
+Value	../ThinkComplexity2\code\thinkstats2.py	/^    def Value(self, p):$/;"	kind:member	line:1151
+ValueArray	../ThinkComplexity2\code\thinkstats2.py	/^    ValueArray = Values$/;"	kind:variable	line:1187
+Values	../ThinkComplexity2\code\thinkstats2.py	/^    def Values(self):$/;"	kind:member	line:289
+Values	../ThinkComplexity2\code\thinkstats2.py	/^    def Values(self, ps=None):$/;"	kind:member	line:1166
+Var	../ThinkComplexity2\code\thinkstats2.py	/^    def Var(self, mu=None):$/;"	kind:member	line:583
+Var	../ThinkComplexity2\code\thinkstats2.py	/^def Var(xs, mu=None, ddof=0):$/;"	kind:function	line:2436
+VertLine	../ThinkComplexity2\code\thinkstats2.py	/^        def VertLine(x):$/;"	kind:function	line:3009
+Vertex	../ThinkComplexity2\code\SmallWorldGraph.py	/^from Graph import Edge, Vertex$/;"	kind:namespace	line:16
+Vlines	../ThinkComplexity2\code\thinkplot.py	/^def Vlines(xs, y1, y2, **options):$/;"	kind:function	line:244
+Watts.py	../ThinkComplexity2\code\Watts.py	1;"	kind:file	line:1
+Watts_fig.py	../ThinkComplexity2\code\Watts_fig.py	1;"	kind:file	line:1
+World	../ThinkComplexity2\code\Boids.py	/^class World(object):$/;"	kind:class	line:153
+Wrap1D	../ThinkComplexity2\code\Cell1D.py	/^class Wrap1D(Cell1D):$/;"	kind:class	line:89
+ZeroDeterminant	../ThinkComplexity2\code\iterPris\ZeroDeterminant.py	/^class ZeroDeterminant():$/;"	kind:class	line:12
+ZeroDeterminant.py	../ThinkComplexity2\code\iterPris\ZeroDeterminant.py	1;"	kind:file	line:1
+Zipf	../ThinkComplexity2\code\Zipf1.py	/^class Zipf(Hist):$/;"	kind:class	line:43
+Zipf	../ThinkComplexity2\code\Zipf2.py	/^class Zipf(Hist):$/;"	kind:class	line:63
+Zipf.py	../ThinkComplexity2\code\Zipf.py	1;"	kind:file	line:1
+Zipf1.py	../ThinkComplexity2\code\Zipf1.py	1;"	kind:file	line:1
+Zipf2.py	../ThinkComplexity2\code\Zipf2.py	1;"	kind:file	line:1
+_Bisect	../ThinkComplexity2\code\thinkstats2.py	/^    def _Bisect(self, x, xs, ys):$/;"	kind:member	line:119
+_Brewer	../ThinkComplexity2\code\thinkplot.py	/^class _Brewer(object):$/;"	kind:class	line:32
+_DictWrapper	../ThinkComplexity2\code\thinkstats2.py	/^class _DictWrapper(object):$/;"	kind:class	line:136
+_Round	../ThinkComplexity2\code\thinkstats2.py	/^    def _Round(self, multiplier=1000):$/;"	kind:member	line:1274
+_Underride	../ThinkComplexity2\code\thinkplot.py	/^def _Underride(d, **options):$/;"	kind:function	line:184
+_UnderrideColor	../ThinkComplexity2\code\thinkplot.py	/^def _UnderrideColor(options):$/;"	kind:function	line:104
+__add__	../ThinkComplexity2\code\thinkstats2.py	/^    def __add__(self, other):$/;"	kind:member	line:644
+__call__	../ThinkComplexity2\code\Callable.py	/^    def __call__(self, *args, **kwds):$/;"	kind:member	line:24
+__contains__	../ThinkComplexity2\code\thinkstats2.py	/^    def __contains__(self, value):$/;"	kind:member	line:203
+__delitem__	../ThinkComplexity2\code\thinkstats2.py	/^    def __delitem__(self):$/;"	kind:member	line:1065
+__delitem__	../ThinkComplexity2\code\thinkstats2.py	/^    def __delitem__(self, value):$/;"	kind:member	line:212
+__div__	../ThinkComplexity2\code\thinkstats2.py	/^    def __div__(self, other):$/;"	kind:member	line:748
+__eq__	../ThinkComplexity2\code\thinkstats2.py	/^    def __eq__(self, other):$/;"	kind:member	line:1068
+__eq__	../ThinkComplexity2\code\thinkstats2.py	/^    def __eq__(self, other):$/;"	kind:member	line:187
+__getitem__	../ThinkComplexity2\code\thinkstats2.py	/^    def __getitem__(self, value):$/;"	kind:member	line:206
+__getitem__	../ThinkComplexity2\code\thinkstats2.py	/^    def __getitem__(self, x):$/;"	kind:member	line:1059
+__hash__	../ThinkComplexity2\code\thinkstats2.py	/^    def __hash__(self):$/;"	kind:member	line:170
+__init__	../ThinkComplexity2\code\Boids.py	/^    def __init__(self, n=10):$/;"	kind:member	line:154
+__init__	../ThinkComplexity2\code\Boids.py	/^    def __init__(self, radius=b_radius, length=b_length):$/;"	kind:member	line:61
+__init__	../ThinkComplexity2\code\CADrawer.py	/^    def __init__(self):$/;"	kind:member	line:129
+__init__	../ThinkComplexity2\code\CADrawer.py	/^    def __init__(self):$/;"	kind:member	line:26
+__init__	../ThinkComplexity2\code\CADrawer.py	/^    def __init__(self, csize=4, color='black'):$/;"	kind:member	line:86
+__init__	../ThinkComplexity2\code\Callable.py	/^    def __init__(self, func, *args, **kwds):$/;"	kind:member	line:19
+__init__	../ThinkComplexity2\code\Cell1D.py	/^    def __init__(self, ca):$/;"	kind:member	line:108
+__init__	../ThinkComplexity2\code\Cell1D.py	/^    def __init__(self, rule, n, m=None):$/;"	kind:member	line:27
+__init__	../ThinkComplexity2\code\Cell2D.py	/^    def __init__(self, n, m=None):$/;"	kind:member	line:31
+__init__	../ThinkComplexity2\code\Cell2D.py	/^    def __init__(self, viewee):$/;"	kind:member	line:62
+__init__	../ThinkComplexity2\code\CircularCA.py	/^    def __init__(self, rule, n=100, ratio=2):$/;"	kind:member	line:20
+__init__	../ThinkComplexity2\code\Forest.py	/^    def __init__(self, forest, cmap=matplotlib.cm.gray_r):$/;"	kind:member	line:101
+__init__	../ThinkComplexity2\code\Forest.py	/^    def __init__(self, n, mode='wrap'):$/;"	kind:member	line:55
+__init__	../ThinkComplexity2\code\ForestFire.py	/^        def __init__(self):$/;"	kind:member	line:248
+__init__	../ThinkComplexity2\code\ForestFire.py	/^    def __init__(self, size=500, csize=5, p=0.01, f=0.001):$/;"	kind:member	line:12
+__init__	../ThinkComplexity2\code\ForestFire.py	/^    def __init__(self, world, indices):$/;"	kind:member	line:196
+__init__	../ThinkComplexity2\code\Sand.py	/^    def __init__(self, n, m=None, level=9):$/;"	kind:member	line:17
+__init__	../ThinkComplexity2\code\Sand.py	/^    def __init__(self, viewee, drop_flag=True):$/;"	kind:member	line:80
+__init__	../ThinkComplexity2\code\SmallWorldGraph.py	/^    def __init__(self, vs, k, p):$/;"	kind:member	line:28
+__init__	../ThinkComplexity2\code\Turmite.py	/^    def __init__(self, n, m=None):$/;"	kind:member	line:38
+__init__	../ThinkComplexity2\code\Turmite.py	/^    def __init__(self, viewee):$/;"	kind:member	line:77
+__init__	../ThinkComplexity2\code\Zipf1.py	/^    def __init__(self, seq=[]):$/;"	kind:member	line:10
+__init__	../ThinkComplexity2\code\Zipf2.py	/^    def __init__(self, seq=[]):$/;"	kind:member	line:10
+__init__	../ThinkComplexity2\code\iterPris\Match.py	/^    def __init__(self, ruleA, ruleB, length):$/;"	kind:member	line:5
+__init__	../ThinkComplexity2\code\iterPris\ZeroDeterminant.py	/^    def __init__(self):$/;"	kind:member	line:18
+__init__	../ThinkComplexity2\code\thinkstats2.py	/^    def __init__(self, alpha=1, beta=1, label=None):$/;"	kind:member	line:2168
+__init__	../ThinkComplexity2\code\thinkstats2.py	/^    def __init__(self, data):$/;"	kind:member	line:2976
+__init__	../ThinkComplexity2\code\thinkstats2.py	/^    def __init__(self, lam=1, label=None):$/;"	kind:member	line:1648
+__init__	../ThinkComplexity2\code\thinkstats2.py	/^    def __init__(self, mu=0, sigma=1, label=None):$/;"	kind:member	line:1613
+__init__	../ThinkComplexity2\code\thinkstats2.py	/^    def __init__(self, n, conc=1, label=None):$/;"	kind:member	line:2262
+__init__	../ThinkComplexity2\code\thinkstats2.py	/^    def __init__(self, obj=None, label=None):$/;"	kind:member	line:139
+__init__	../ThinkComplexity2\code\thinkstats2.py	/^    def __init__(self, obj=None, ps=None, label=None):$/;"	kind:member	line:988
+__init__	../ThinkComplexity2\code\thinkstats2.py	/^    def __init__(self, sample, label=None):$/;"	kind:member	line:1681
+__init__	../ThinkComplexity2\code\thinkstats2.py	/^    def __init__(self, variables, index_base=0):$/;"	kind:member	line:2803
+__init__	../ThinkComplexity2\code\thinkstats2.py	/^    def __init__(self, xs, ys):$/;"	kind:member	line:107
+__iter__	../ThinkComplexity2\code\thinkstats2.py	/^    def __iter__(self):$/;"	kind:member	line:196
+__len__	../ThinkComplexity2\code\thinkstats2.py	/^    def __len__(self):$/;"	kind:member	line:1056
+__len__	../ThinkComplexity2\code\thinkstats2.py	/^    def __len__(self):$/;"	kind:member	line:193
+__mul__	../ThinkComplexity2\code\thinkstats2.py	/^    def __mul__(self, other):$/;"	kind:member	line:711
+__radd__	../ThinkComplexity2\code\thinkstats2.py	/^    __radd__ = __add__$/;"	kind:variable	line:656
+__repr__	../ThinkComplexity2\code\thinkstats2.py	/^    def __repr__(self):$/;"	kind:member	line:1048
+__repr__	../ThinkComplexity2\code\thinkstats2.py	/^    def __repr__(self):$/;"	kind:member	line:180
+__setitem__	../ThinkComplexity2\code\thinkstats2.py	/^    def __setitem__(self):$/;"	kind:member	line:1062
+__setitem__	../ThinkComplexity2\code\thinkstats2.py	/^    def __setitem__(self, value, prob):$/;"	kind:member	line:209
+__str__	../ThinkComplexity2\code\Callable.py	/^    def __str__(self):$/;"	kind:member	line:29
+__str__	../ThinkComplexity2\code\thinkstats2.py	/^    def __str__(self):$/;"	kind:member	line:1041
+__str__	../ThinkComplexity2\code\thinkstats2.py	/^    def __str__(self):$/;"	kind:member	line:1624
+__str__	../ThinkComplexity2\code\thinkstats2.py	/^    def __str__(self):$/;"	kind:member	line:1657
+__str__	../ThinkComplexity2\code\thinkstats2.py	/^    def __str__(self):$/;"	kind:member	line:1693
+__str__	../ThinkComplexity2\code\thinkstats2.py	/^    def __str__(self):$/;"	kind:member	line:173
+__sub__	../ThinkComplexity2\code\thinkstats2.py	/^    def __sub__(self, other):$/;"	kind:member	line:686
+__truediv__	../ThinkComplexity2\code\thinkstats2.py	/^    __truediv__ = __div__$/;"	kind:variable	line:760
+a	../ThinkComplexity2\code\life_demo.py	/^a = np.zeros((n, m), np.uint8)$/;"	kind:variable	line:51
+a_avoid	../ThinkComplexity2\code\Boids.py	/^a_avoid = 2*np.pi$/;"	kind:variable	line:28
+a_center	../ThinkComplexity2\code\Boids.py	/^a_center = 2$/;"	kind:variable	line:29
+a_copy	../ThinkComplexity2\code\Boids.py	/^a_copy = 2$/;"	kind:variable	line:30
+add_cells	../ThinkComplexity2\code\Cell2D.py	/^    def add_cells(self, row, col, *strings):$/;"	kind:member	line:40
+add_cells	../ThinkComplexity2\code\life_demo.py	/^def add_cells(x, y, *strings):$/;"	kind:function	line:13
+add_local_edges	../ThinkComplexity2\code\SmallGraph.py	/^    def add_local_edges(self, layout, k=3):$/;"	kind:function	line:1
+adjacent_edges	../ThinkComplexity2\code\thinkcomplexity.py	/^def adjacent_edges(nodes, halfk):$/;"	kind:function	line:109
+all_clusters	../ThinkComplexity2\code\ForestFire.py	/^    def all_clusters(self):$/;"	kind:member	line:91
+all_pairs	../ThinkComplexity2\code\thinkcomplexity.py	/^def all_pairs(nodes):$/;"	kind:function	line:18
+all_pairs_floyd_warshall	../ThinkComplexity2\code\SmallWorldGraph.py	/^    def all_pairs_floyd_warshall(self):$/;"	kind:member	line:154
+all_pairs_shortest_path	../ThinkComplexity2\code\SmallWorldGraph.py	/^    def all_pairs_shortest_path(self):$/;"	kind:member	line:134
+anim	../ThinkComplexity2\code\life_demo.py	/^anim = animation.FuncAnimation(fig, animate_func, frames=100, interval=0)$/;"	kind:variable	line:75
+animate	../ThinkComplexity2\code\Cell2D.py	/^    def animate(self, frames=20, interval=200, grid=False):$/;"	kind:member	line:115
+animate	../ThinkComplexity2\code\Forest.py	/^    def animate(self, steps=10):$/;"	kind:member	line:122
+animate_callback	../ThinkComplexity2\code\Forest.py	/^    def animate_callback(self):$/;"	kind:member	line:131
+animate_func	../ThinkComplexity2\code\Cell2D.py	/^    def animate_func(self, i):$/;"	kind:member	line:132
+animate_func	../ThinkComplexity2\code\Turmite.py	/^    def animate_func(self, i):$/;"	kind:member	line:106
+animate_func	../ThinkComplexity2\code\life_demo.py	/^def animate_func(i):$/;"	kind:function	line:67
+animation	../ThinkComplexity2\code\Cell2D.py	/^from matplotlib import animation$/;"	kind:namespace	line:16
+animation	../ThinkComplexity2\code\Life.py	/^from matplotlib import animation$/;"	kind:namespace	line:16
+animation	../ThinkComplexity2\code\life_demo.py	/^import matplotlib.animation as animation$/;"	kind:namespace	line:10
+any_neighbor_burning	../ThinkComplexity2\code\ForestFire.py	/^    def any_neighbor_burning(self):$/;"	kind:member	line:254
+arrow_specs	../ThinkComplexity2\code\Turmite.py	/^    def arrow_specs(self):$/;"	kind:member	line:97
+assign_edge_lengths	../ThinkComplexity2\code\SmallWorldGraph.py	/^    def assign_edge_lengths(self):$/;"	kind:member	line:34
+avg	../ThinkComplexity2\code\SmallWorldGraph.py	/^def avg(seq):$/;"	kind:function	line:21
+avoid	../ThinkComplexity2\code\Boids.py	/^    def avoid(self, others, carrot):$/;"	kind:member	line:87
+b_length	../ThinkComplexity2\code\Boids.py	/^b_length = 0.1$/;"	kind:variable	line:20
+b_radius	../ThinkComplexity2\code\Boids.py	/^b_radius = 0.03$/;"	kind:variable	line:19
+bfs	../ThinkComplexity2\code\thinkcomplexity.py	/^def bfs(top_node, visit):$/;"	kind:function	line:316
+bhep	../ThinkComplexity2\code\life_demo.py	/^bhep = [$/;"	kind:variable	line:31
+bind	../ThinkComplexity2\code\ForestFire.py	/^    def bind(self):$/;"	kind:member	line:126
+bisect	../ThinkComplexity2\code\thinkstats2.py	/^import bisect$/;"	kind:namespace	line:24
+cProfile	../ThinkComplexity2\code\Forest.py	/^        import cProfile$/;"	kind:namespace	line:164
+cdf	../ThinkComplexity2\code\Zipf1.py	/^    def cdf(self):$/;"	kind:member	line:25
+cdf	../ThinkComplexity2\code\Zipf2.py	/^    def cdf(self):$/;"	kind:member	line:28
+cdf	../ThinkComplexity2\code\thinkplot.py	/^cdf = Cdf$/;"	kind:variable	line:774
+cdf_example.py	../ThinkComplexity2\code\cdf_example.py	1;"	kind:file	line:1
+cdfs	../ThinkComplexity2\code\thinkplot.py	/^cdfs = Cdfs$/;"	kind:variable	line:775
+center	../ThinkComplexity2\code\Boids.py	/^    def center(self, others):$/;"	kind:member	line:102
+char_length	../ThinkComplexity2\code\SmallWorldGraph.py	/^    def char_length(self):$/;"	kind:member	line:230
+char_length2	../ThinkComplexity2\code\SmallWorldGraph.py	/^    def char_length2(self):$/;"	kind:member	line:249
+char_length3	../ThinkComplexity2\code\SmallWorldGraph.py	/^    def char_length3(self):$/;"	kind:member	line:261
+char_length4	../ThinkComplexity2\code\SmallWorldGraph.py	/^    def char_length4(self):$/;"	kind:member	line:273
+characteristic_path_length	../ThinkComplexity2\code\thinkcomplexity.py	/^def characteristic_path_length(G):$/;"	kind:function	line:183
+clf	../ThinkComplexity2\code\thinkplot.py	/^clf = Clf$/;"	kind:variable	line:761
+click	../ThinkComplexity2\code\ForestFire.py	/^    def click(self, event):$/;"	kind:member	line:131
+clock	../ThinkComplexity2\code\SmallWorldGraph.py	/^    from time import clock$/;"	kind:namespace	line:355
+cluster	../ThinkComplexity2\code\SmallWorldGraph.py	/^    def cluster(self, set):$/;"	kind:member	line:300
+cluster_coef	../ThinkComplexity2\code\SmallWorldGraph.py	/^    def cluster_coef(self):$/;"	kind:member	line:285
+cluster_dist	../ThinkComplexity2\code\ForestFire.py	/^    def cluster_dist(self):$/;"	kind:member	line:117
+clustering_coefficient	../ThinkComplexity2\code\thinkcomplexity.py	/^def clustering_coefficient(G):$/;"	kind:function	line:159
+cmap	../ThinkComplexity2\code\Cell1D.py	/^    cmap = plt.get_cmap('Blues')$/;"	kind:variable	line:105
+cmap	../ThinkComplexity2\code\Cell2D.py	/^    cmap = plt.get_cmap('Greens')$/;"	kind:variable	line:58
+cmap	../ThinkComplexity2\code\Sand.py	/^    cmap = plt.get_cmap('YlOrRd')$/;"	kind:variable	line:76
+cmap	../ThinkComplexity2\code\Turmite.py	/^    cmap = plt.get_cmap('Oranges')$/;"	kind:variable	line:75
+cmap	../ThinkComplexity2\code\life_demo.py	/^cmap = plt.get_cmap('Greens')$/;"	kind:variable	line:61
+color_iter	../ThinkComplexity2\code\thinkplot.py	/^    color_iter = None$/;"	kind:variable	line:40
+colors	../ThinkComplexity2\code\thinkplot.py	/^    colors = ['#f7fbff', '#deebf7', '#c6dbef',$/;"	kind:variable	line:42
+config	../ThinkComplexity2\code\thinkplot.py	/^config = Config$/;"	kind:variable	line:778
+contour	../ThinkComplexity2\code\thinkplot.py	/^contour = Contour$/;"	kind:variable	line:776
+convolve2d	../ThinkComplexity2\code\Cell2D.py	/^from scipy.signal import convolve2d$/;"	kind:namespace	line:17
+convolve2d	../ThinkComplexity2\code\Life.py	/^from scipy.signal import convolve2d$/;"	kind:namespace	line:17
+convolve2d	../ThinkComplexity2\code\life_demo.py	/^from scipy.signal import convolve2d$/;"	kind:namespace	line:11
+copy	../ThinkComplexity2\code\Boids.py	/^    def copy(self, others):$/;"	kind:member	line:114
+copy	../ThinkComplexity2\code\thinkstats2.py	/^import copy$/;"	kind:namespace	line:25
+correlate2d	../ThinkComplexity2\code\Life.py	/^from scipy.signal import correlate2d$/;"	kind:namespace	line:28
+correlate2d	../ThinkComplexity2\code\Sand.py	/^from scipy.signal import correlate2d$/;"	kind:namespace	line:7
+count	../ThinkComplexity2\code\Forest.py	/^    def count(self):$/;"	kind:member	line:90
+count	../ThinkComplexity2\code\Zipf1.py	/^    def count(self, x):$/;"	kind:member	line:15
+count	../ThinkComplexity2\code\Zipf2.py	/^    def count(self, x):$/;"	kind:member	line:15
+current_figure	../ThinkComplexity2\code\thinkplot.py	/^    current_figure = None$/;"	kind:variable	line:59
+data	../ThinkComplexity2\code\Watts_fig.py	/^    data = [float(x) for x in line.split()]$/;"	kind:variable	line:5
+dbTriCon	../ThinkComplexity2\code\iterPris\dbTriCon.py	/^class dbTriCon():$/;"	kind:class	line:3
+dbTriCon.py	../ThinkComplexity2\code\iterPris\dbTriCon.py	1;"	kind:file	line:1
+deque	../ThinkComplexity2\code\thinkcomplexity.py	/^from collections import deque$/;"	kind:namespace	line:208
+diameter	../ThinkComplexity2\code\SmallWorldGraph.py	/^    def diameter(self):$/;"	kind:member	line:212
+diff	../ThinkComplexity2\code\thinkplot.py	/^diff = Diff$/;"	kind:variable	line:773
+dispatch	../ThinkComplexity2\code\ForestFire.py	/^    dispatch = dict(white=step_empty, green=step_tree, orange=step_burning)$/;"	kind:variable	line:242
+display_fft	../ThinkComplexity2\code\ForestFire.py	/^    def display_fft(self, N=4096):$/;"	kind:member	line:169
+division	../ThinkComplexity2\code\Cell2D.py	/^from __future__ import print_function, division$/;"	kind:namespace	line:9
+division	../ThinkComplexity2\code\Life.py	/^from __future__ import print_function, division$/;"	kind:namespace	line:9
+division	../ThinkComplexity2\code\LifeRabbits.py	/^from __future__ import print_function, division$/;"	kind:namespace	line:9
+division	../ThinkComplexity2\code\Turmite.py	/^from __future__ import print_function, division$/;"	kind:namespace	line:9
+division	../ThinkComplexity2\code\life_demo.py	/^from __future__ import print_function, division$/;"	kind:namespace	line:6
+division	../ThinkComplexity2\code\thinkcomplexity.py	/^from __future__ import print_function, division$/;"	kind:namespace	line:2
+division	../ThinkComplexity2\code\thinkstats2.py	/^from __future__ import print_function, division$/;"	kind:namespace	line:8
+draw	../ThinkComplexity2\code\CADrawer.py	/^    def draw(self, ca):$/;"	kind:member	line:30
+draw	../ThinkComplexity2\code\CADrawer.py	/^    def draw(self, ca, start=0, end=None):$/;"	kind:member	line:100
+draw	../ThinkComplexity2\code\CADrawer.py	/^    def draw(self, ca, start=0, end=None):$/;"	kind:member	line:132
+draw	../ThinkComplexity2\code\CADrawer.py	/^    def draw(self, ca, start=0, end=None):$/;"	kind:member	line:59
+draw	../ThinkComplexity2\code\Cell1D.py	/^    def draw(self, ca, start=0, end=None):$/;"	kind:member	line:146
+draw	../ThinkComplexity2\code\Cell1D.py	/^    def draw(self, start=0, end=None):$/;"	kind:member	line:111
+draw	../ThinkComplexity2\code\Cell2D.py	/^    def draw(self, grid=False):$/;"	kind:member	line:74
+draw	../ThinkComplexity2\code\ForestFire.py	/^    def draw(self):$/;"	kind:member	line:205
+draw	../ThinkComplexity2\code\Turmite.py	/^    def draw(self, grid=False):$/;"	kind:member	line:82
+draw_array	../ThinkComplexity2\code\CADrawer.py	/^    def draw_array(self, a):$/;"	kind:member	line:35
+draw_array	../ThinkComplexity2\code\Cell2D.py	/^    def draw_array(self, array=None, cmap=None, **kwds):$/;"	kind:member	line:83
+draw_arrow	../ThinkComplexity2\code\Turmite.py	/^    def draw_arrow(self):$/;"	kind:member	line:89
+draw_cell	../ThinkComplexity2\code\CADrawer.py	/^    def draw_cell(self, ca):$/;"	kind:member	line:42
+draw_cell	../ThinkComplexity2\code\CADrawer.py	/^    def draw_cell(self, i, j):$/;"	kind:member	line:112
+draw_cell	../ThinkComplexity2\code\CADrawer.py	/^    def draw_cell(self, i, j):$/;"	kind:member	line:137
+draw_grid	../ThinkComplexity2\code\Cell2D.py	/^    def draw_grid(self):$/;"	kind:member	line:102
+drop	../ThinkComplexity2\code\Sand.py	/^    def drop(self):$/;"	kind:member	line:46
+drop_and_run	../ThinkComplexity2\code\Sand.py	/^    def drop_and_run(self):$/;"	kind:member	line:65
+dt	../ThinkComplexity2\code\Boids.py	/^dt = 0.1$/;"	kind:variable	line:39
+estimate_cl_cc	../ThinkComplexity2\code\Watts.py	/^def estimate_cl_cc(n=52, k=10, p=0.1, runs=3):$/;"	kind:function	line:28
+estimate_cls_ccs	../ThinkComplexity2\code\Watts.py	/^def estimate_cls_ccs(n=52, k=10, ps=[0.1], runs=3):$/;"	kind:function	line:36
+etime	../ThinkComplexity2\code\listsum.py	/^def etime():$/;"	kind:function	line:14
+extend_shortest_paths	../ThinkComplexity2\code\SmallWorldGraph.py	/^    def extend_shortest_paths(self, D, W):$/;"	kind:member	line:121
+fft	../ThinkComplexity2\code\ForestFire.py	/^from Fourier import fft$/;"	kind:namespace	line:4
+fft	../ThinkComplexity2\code\Fourier.py	/^def fft(h):$/;"	kind:function	line:18
+fifty_good.py	../ThinkComplexity2\code\iterPris\fifty_good.py	1;"	kind:file	line:1
+fifty_is_good	../ThinkComplexity2\code\iterPris\fifty_good.py	/^class fifty_is_good():$/;"	kind:class	line:1
+fig	../ThinkComplexity2\code\life_demo.py	/^fig = plt.figure()$/;"	kind:variable	line:60
+figure	../ThinkComplexity2\code\thinkplot.py	/^figure = Figure$/;"	kind:variable	line:762
+fill_between	../ThinkComplexity2\code\thinkplot.py	/^fill_between = FillBetween$/;"	kind:variable	line:766
+fit	../ThinkComplexity2\code\listsum.py	/^def fit(ns, ts, exp=1.0, index=-1):$/;"	kind:function	line:97
+flip	../ThinkComplexity2\code\thinkcomplexity.py	/^def flip(p):$/;"	kind:function	line:38
+fractal	../ThinkComplexity2\code\Forest.py	/^import fractal$/;"	kind:namespace	line:17
+gamma	../ThinkComplexity2\code\thinkstats2.py	/^from scipy.special import gamma$/;"	kind:namespace	line:44
+get_array	../ThinkComplexity2\code\Cell1D.py	/^    def get_array(self, start=0, end=None):$/;"	kind:member	line:75
+get_array	../ThinkComplexity2\code\CircularCA.py	/^    def get_array(self, start=0, end=None):$/;"	kind:member	line:52
+get_array	../ThinkComplexity2\code\Forest.py	/^    def get_array(self, start=0, end=None):$/;"	kind:member	line:69
+get_cluster	../ThinkComplexity2\code\ForestFire.py	/^    def get_cluster(self, patch):$/;"	kind:member	line:64
+get_neighbors	../ThinkComplexity2\code\Boids.py	/^    def get_neighbors(self, others, radius, angle):$/;"	kind:member	line:67
+graphs.py	../SmallWorldGraphs\graphs.py	1;"	kind:file	line:1
+halted_run	../ThinkComplexity2\code\iterPris\Match.py	/^    def halted_run(self):$/;"	kind:member	line:31
+hist	../ThinkComplexity2\code\thinkplot.py	/^hist = Hist$/;"	kind:variable	line:771
+hists	../ThinkComplexity2\code\thinkplot.py	/^hists = Hists$/;"	kind:variable	line:772
+hlines	../ThinkComplexity2\code\thinkplot.py	/^hlines = Hlines$/;"	kind:variable	line:765
+im	../ThinkComplexity2\code\life_demo.py	/^im = plt.imshow(a, cmap=cmap, interpolation='nearest')$/;"	kind:variable	line:62
+init_all_pairs	../ThinkComplexity2\code\SmallWorldGraph.py	/^    def init_all_pairs(self):$/;"	kind:member	line:106
+init_func	../ThinkComplexity2\code\Cell2D.py	/^    def init_func(self):$/;"	kind:member	line:128
+interleave	../ThinkComplexity2\code\thinkstats2.py	/^        def interleave(a, b):$/;"	kind:function	line:1295
+is_connected	../ThinkComplexity2\code\thinkcomplexity.py	/^def is_connected(G):$/;"	kind:function	line:77
+isnan	../ThinkComplexity2\code\thinkstats2.py	/^        def isnan(x):$/;"	kind:function	line:307
+itemgetter	../ThinkComplexity2\code\thinkstats2.py	/^from operator import itemgetter$/;"	kind:namespace	line:32
+iter_words	../ThinkComplexity2\code\Zipf.py	/^def iter_words(filename):$/;"	kind:function	line:52
+iterkeys	../ThinkComplexity2\code\thinkstats2.py	/^    def iterkeys(self):$/;"	kind:member	line:199
+itertools	../ThinkComplexity2\code\Sand.py	/^import itertools$/;"	kind:namespace	line:1
+kernel	../ThinkComplexity2\code\Life.py	/^    kernel = np.array([[1, 1, 1],$/;"	kind:variable	line:32
+kernel	../ThinkComplexity2\code\Sand.py	/^    kernel = np.array([[0, 1, 0],$/;"	kind:variable	line:13
+kernel	../ThinkComplexity2\code\life_demo.py	/^kernel = np.array([[1, 1, 1],$/;"	kind:variable	line:40
+life_demo.py	../ThinkComplexity2\code\life_demo.py	1;"	kind:file	line:1
+limit_vector	../ThinkComplexity2\code\Boids.py	/^def limit_vector(vect):$/;"	kind:function	line:48
+listsum.py	../ThinkComplexity2\code\listsum.py	1;"	kind:file	line:1
+logging	../ThinkComplexity2\code\thinkstats2.py	/^import logging$/;"	kind:namespace	line:26
+loop	../ThinkComplexity2\code\Cell1D.py	/^    def loop(self, steps=1):$/;"	kind:member	line:61
+loop	../ThinkComplexity2\code\Forest.py	/^    def loop(self, steps=1):$/;"	kind:member	line:78
+love	../ThinkComplexity2\code\Boids.py	/^    def love(self, carrot):$/;"	kind:member	line:129
+lwss	../ThinkComplexity2\code\life_demo.py	/^lwss = [$/;"	kind:variable	line:24
+m	../ThinkComplexity2\code\life_demo.py	/^m = 600$/;"	kind:variable	line:50
+main	../ThinkComplexity2\code\Boids.py	/^def main(script, n=20):$/;"	kind:function	line:180
+main	../ThinkComplexity2\code\CircularCA.py	/^def main(script, rule=30, n=100, *args):$/;"	kind:function	line:62
+main	../ThinkComplexity2\code\Forest.py	/^def main(script, n=50, steps=50, *args):$/;"	kind:function	line:138
+main	../ThinkComplexity2\code\Fourier.py	/^def main(script, use_numpy=False):$/;"	kind:function	line:44
+main	../ThinkComplexity2\code\Life.py	/^def main(script, *args):$/;"	kind:function	line:49
+main	../ThinkComplexity2\code\LifeRabbits.py	/^def main(script, *args):$/;"	kind:function	line:17
+main	../ThinkComplexity2\code\Sand.py	/^def main():$/;"	kind:function	line:107
+main	../ThinkComplexity2\code\SmallWorldGraph.py	/^def main(script, n='52', k='5', p='0.1', *args):$/;"	kind:function	line:341
+main	../ThinkComplexity2\code\Turmite.py	/^def main(script, *args):$/;"	kind:function	line:122
+main	../ThinkComplexity2\code\Zipf.py	/^def main(name, filename='gatsby.txt', flag='print', *args):$/;"	kind:function	line:64
+main	../ThinkComplexity2\code\Zipf1.py	/^def main(name, filename='', flag=None, *args):$/;"	kind:function	line:72
+main	../ThinkComplexity2\code\Zipf2.py	/^def main(name, filename='', flag=None, *args):$/;"	kind:function	line:113
+main	../ThinkComplexity2\code\cdf_example.py	/^def main(name, *args):$/;"	kind:function	line:31
+main	../ThinkComplexity2\code\listsum.py	/^def main(script):$/;"	kind:function	line:148
+main	../ThinkComplexity2\code\thinkplot.py	/^def main():$/;"	kind:function	line:783
+main	../ThinkComplexity2\code\thinkstats2.py	/^def main():$/;"	kind:function	line:3036
+make_cells	../ThinkComplexity2\code\ForestFire.py	/^    def make_cells(self, limits):$/;"	kind:member	line:52
+make_complete_graph	../ThinkComplexity2\code\thinkcomplexity.py	/^def make_complete_graph(n):$/;"	kind:function	line:27
+make_fig	../ThinkComplexity2\code\listsum.py	/^def make_fig(funcs, scale='log', exp=1.0, filename=''):$/;"	kind:function	line:127
+make_hist	../ThinkComplexity2\code\Zipf2.py	/^    def make_hist(self):$/;"	kind:member	line:89
+make_random_graph	../ThinkComplexity2\code\thinkcomplexity.py	/^def make_random_graph(n, p):$/;"	kind:function	line:54
+make_regular_graph	../ThinkComplexity2\code\thinkcomplexity.py	/^def make_regular_graph(n, k):$/;"	kind:function	line:260
+make_ring_lattice	../ThinkComplexity2\code\thinkcomplexity.py	/^def make_ring_lattice(n, k):$/;"	kind:function	line:118
+make_sw_graph	../ThinkComplexity2\code\Watts.py	/^def make_sw_graph(n=52, k=10, p=0.1):$/;"	kind:function	line:7
+make_table	../ThinkComplexity2\code\Cell1D.py	/^def make_table(rule):$/;"	kind:function	line:12
+make_ws_graph	../ThinkComplexity2\code\thinkcomplexity.py	/^def make_ws_graph(n, k, p):$/;"	kind:function	line:127
+math	../ThinkComplexity2\code\SmallWorldGraph.py	/^import math$/;"	kind:namespace	line:10
+math	../ThinkComplexity2\code\iterPris\AverageTitForTat.py	/^        import math$/;"	kind:namespace	line:4
+math	../ThinkComplexity2\code\thinkplot.py	/^import math$/;"	kind:namespace	line:10
+math	../ThinkComplexity2\code\thinkstats2.py	/^import math$/;"	kind:namespace	line:27
+matplotlib	../SmallWorldGraphs\graphs.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:1
+matplotlib	../ThinkComplexity2\code\CADrawer.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:11
+matplotlib	../ThinkComplexity2\code\Cell1D.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:10
+matplotlib	../ThinkComplexity2\code\Cell2D.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:14
+matplotlib	../ThinkComplexity2\code\Forest.py	/^import matplotlib$/;"	kind:namespace	line:13
+matplotlib	../ThinkComplexity2\code\Forest.py	/^import matplotlib.pyplot as pyplot$/;"	kind:namespace	line:15
+matplotlib	../ThinkComplexity2\code\Fourier.py	/^import matplotlib.pyplot as pyplot$/;"	kind:namespace	line:15
+matplotlib	../ThinkComplexity2\code\Life.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:14
+matplotlib	../ThinkComplexity2\code\LifeRabbits.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:12
+matplotlib	../ThinkComplexity2\code\Sand.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:4
+matplotlib	../ThinkComplexity2\code\Turmite.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:14
+matplotlib	../ThinkComplexity2\code\Zipf.py	/^import matplotlib.pyplot as pyplot$/;"	kind:namespace	line:13
+matplotlib	../ThinkComplexity2\code\cdf_example.py	/^import matplotlib.pyplot as pyplot$/;"	kind:namespace	line:12
+matplotlib	../ThinkComplexity2\code\life_demo.py	/^import matplotlib.animation as animation$/;"	kind:namespace	line:10
+matplotlib	../ThinkComplexity2\code\life_demo.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:9
+matplotlib	../ThinkComplexity2\code\listsum.py	/^import matplotlib.pyplot as pyplot$/;"	kind:namespace	line:11
+matplotlib	../ThinkComplexity2\code\thinkcomplexity.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:4
+matplotlib	../ThinkComplexity2\code\thinkplot.py	/^import matplotlib$/;"	kind:namespace	line:11
+matplotlib	../ThinkComplexity2\code\thinkplot.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:12
+move	../ThinkComplexity2\code\Boids.py	/^    def move(self, mu=0.1):$/;"	kind:member	line:142
+move	../ThinkComplexity2\code\Turmite.py	/^    move = {0: (-1, 0),  # north$/;"	kind:variable	line:33
+n	../ThinkComplexity2\code\life_demo.py	/^n = 200$/;"	kind:variable	line:49
+name	../ThinkComplexity2\code\iterPris\Match.py	/^def name(rule):$/;"	kind:function	line:78
+name_generator	../ThinkComplexity2\code\SmallWorldGraph.py	/^def name_generator():$/;"	kind:function	line:331
+ndimage	../ThinkComplexity2\code\Forest.py	/^import scipy.ndimage$/;"	kind:namespace	line:11
+ndimage	../ThinkComplexity2\code\thinkstats2.py	/^from scipy import ndimage$/;"	kind:namespace	line:42
+node_clustering	../ThinkComplexity2\code\thinkcomplexity.py	/^def node_clustering(G, u):$/;"	kind:function	line:145
+node_clustering	../ThinkComplexity2\code\thinkcomplexity.py	/^def node_clustering(G, u):$/;"	kind:function	line:165
+np	../SmallWorldGraphs\graphs.py	/^import numpy as np$/;"	kind:namespace	line:4
+np	../ThinkComplexity2\code\Boids.py	/^import numpy as np$/;"	kind:namespace	line:16
+np	../ThinkComplexity2\code\CADrawer.py	/^import numpy as np$/;"	kind:namespace	line:10
+np	../ThinkComplexity2\code\Cell1D.py	/^import numpy as np$/;"	kind:namespace	line:9
+np	../ThinkComplexity2\code\Cell2D.py	/^import numpy as np$/;"	kind:namespace	line:13
+np	../ThinkComplexity2\code\Life.py	/^import numpy as np$/;"	kind:namespace	line:13
+np	../ThinkComplexity2\code\Sand.py	/^import numpy as np$/;"	kind:namespace	line:3
+np	../ThinkComplexity2\code\Turmite.py	/^import numpy as np$/;"	kind:namespace	line:13
+np	../ThinkComplexity2\code\iterPris\CheckAndChoose.py	/^import numpy as np$/;"	kind:namespace	line:1
+np	../ThinkComplexity2\code\iterPris\Patrick.py	/^import numpy as np$/;"	kind:namespace	line:1
+np	../ThinkComplexity2\code\life_demo.py	/^import numpy as np$/;"	kind:namespace	line:8
+np	../ThinkComplexity2\code\thinkcomplexity.py	/^import numpy as np$/;"	kind:namespace	line:6
+np	../ThinkComplexity2\code\thinkplot.py	/^import numpy as np$/;"	kind:namespace	line:13
+np	../ThinkComplexity2\code\thinkstats2.py	/^import numpy as np$/;"	kind:namespace	line:36
+null	../ThinkComplexity2\code\ForestFire.py	/^    null = NullPatch()$/;"	kind:variable	line:252
+null_vector	../ThinkComplexity2\code\Boids.py	/^null_vector = visual.vector(0,0,0)$/;"	kind:variable	line:55
+numpy	../ThinkComplexity2\code\CircularCA.py	/^import numpy$/;"	kind:namespace	line:10
+numpy	../ThinkComplexity2\code\Forest.py	/^import numpy$/;"	kind:namespace	line:10
+numpy	../ThinkComplexity2\code\Fourier.py	/^import numpy$/;"	kind:namespace	line:14
+nx	../SmallWorldGraphs\graphs.py	/^import networkx as nx$/;"	kind:namespace	line:3
+nx	../ThinkComplexity2\code\thinkcomplexity.py	/^import networkx as nx$/;"	kind:namespace	line:5
+open	../ThinkComplexity2\code\thinkstats2.py	/^from io import open$/;"	kind:namespace	line:46
+opposite_edges	../ThinkComplexity2\code\thinkcomplexity.py	/^def opposite_edges(nodes):$/;"	kind:function	line:251
+options	../ThinkComplexity2\code\Cell1D.py	/^    options = dict(alpha=0.7, interpolation='nearest')$/;"	kind:variable	line:106
+options	../ThinkComplexity2\code\Cell2D.py	/^    options = dict(interpolation='nearest', alpha=0.8,$/;"	kind:variable	line:59
+options	../ThinkComplexity2\code\Sand.py	/^    options = dict(interpolation='nearest', alpha=0.8,$/;"	kind:variable	line:77
+os	../ThinkComplexity2\code\listsum.py	/^import os$/;"	kind:namespace	line:10
+pandas	../ThinkComplexity2\code\thinkplot.py	/^import pandas$/;"	kind:namespace	line:14
+pandas	../ThinkComplexity2\code\thinkstats2.py	/^import pandas$/;"	kind:namespace	line:37
+path_lengths	../ThinkComplexity2\code\thinkcomplexity.py	/^def path_lengths(G):$/;"	kind:function	line:176
+pcolor	../ThinkComplexity2\code\thinkplot.py	/^pcolor = Pcolor$/;"	kind:variable	line:777
+pdf	../ThinkComplexity2\code\Zipf1.py	/^    def pdf(self):$/;"	kind:member	line:19
+pdf	../ThinkComplexity2\code\Zipf2.py	/^    def pdf(self):$/;"	kind:member	line:19
+plain_bfs	../ThinkComplexity2\code\thinkcomplexity.py	/^def plain_bfs(G, source):$/;"	kind:function	line:284
+plain_shortest_path	../ThinkComplexity2\code\thinkcomplexity.py	/^def plain_shortest_path(G, source):$/;"	kind:function	line:299
+plot	../ThinkComplexity2\code\listsum.py	/^def plot(ns, ts, label, color='blue', exp=1.0):$/;"	kind:function	line:83
+plot	../ThinkComplexity2\code\thinkplot.py	/^plot = Plot$/;"	kind:variable	line:763
+plot_ranks	../ThinkComplexity2\code\Zipf.py	/^def plot_ranks(hist, scale='log'):$/;"	kind:function	line:37
+plot_ranks	../ThinkComplexity2\code\cdf_example.py	/^def plot_ranks(hist, scale='log'):$/;"	kind:function	line:16
+plotly	../ThinkComplexity2\code\thinkplot.py	/^    import plotly.plotly as plotly$/;"	kind:namespace	line:703
+plt	../SmallWorldGraphs\graphs.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:1
+plt	../ThinkComplexity2\code\CADrawer.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:11
+plt	../ThinkComplexity2\code\Cell1D.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:10
+plt	../ThinkComplexity2\code\Cell2D.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:14
+plt	../ThinkComplexity2\code\Life.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:14
+plt	../ThinkComplexity2\code\LifeRabbits.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:12
+plt	../ThinkComplexity2\code\Sand.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:4
+plt	../ThinkComplexity2\code\Turmite.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:14
+plt	../ThinkComplexity2\code\life_demo.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:9
+plt	../ThinkComplexity2\code\thinkcomplexity.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:4
+plt	../ThinkComplexity2\code\thinkplot.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:12
+pmf	../ThinkComplexity2\code\thinkplot.py	/^pmf = Pmf$/;"	kind:variable	line:769
+pmfs	../ThinkComplexity2\code\thinkplot.py	/^pmfs = Pmfs$/;"	kind:variable	line:770
+preplot	../ThinkComplexity2\code\thinkplot.py	/^preplot = PrePlot$/;"	kind:variable	line:759
+print_ccdf	../ThinkComplexity2\code\Zipf2.py	/^    def print_ccdf(self):$/;"	kind:member	line:95
+print_cells	../ThinkComplexity2\code\CADrawer.py	/^    def print_cells(self, fp):$/;"	kind:member	line:150
+print_cells	../ThinkComplexity2\code\Cell1D.py	/^    def print_cells(self, fp):$/;"	kind:member	line:196
+print_footer	../ThinkComplexity2\code\CADrawer.py	/^    def print_footer(self, fp):$/;"	kind:member	line:173
+print_footer	../ThinkComplexity2\code\Cell1D.py	/^    def print_footer(self, fp):$/;"	kind:member	line:201
+print_function	../ThinkComplexity2\code\Cell2D.py	/^from __future__ import print_function, division$/;"	kind:namespace	line:9
+print_function	../ThinkComplexity2\code\Life.py	/^from __future__ import print_function, division$/;"	kind:namespace	line:9
+print_function	../ThinkComplexity2\code\LifeRabbits.py	/^from __future__ import print_function, division$/;"	kind:namespace	line:9
+print_function	../ThinkComplexity2\code\Turmite.py	/^from __future__ import print_function, division$/;"	kind:namespace	line:9
+print_function	../ThinkComplexity2\code\life_demo.py	/^from __future__ import print_function, division$/;"	kind:namespace	line:6
+print_function	../ThinkComplexity2\code\thinkcomplexity.py	/^from __future__ import print_function, division$/;"	kind:namespace	line:2
+print_function	../ThinkComplexity2\code\thinkplot.py	/^from __future__ import print_function$/;"	kind:namespace	line:8
+print_function	../ThinkComplexity2\code\thinkstats2.py	/^from __future__ import print_function, division$/;"	kind:namespace	line:8
+print_header	../ThinkComplexity2\code\CADrawer.py	/^    def print_header(self, fp, size=0.9):$/;"	kind:member	line:154
+print_header	../ThinkComplexity2\code\Cell1D.py	/^    def print_header(self, fp, size=0.9, border=2):$/;"	kind:member	line:172
+print_history	../ThinkComplexity2\code\iterPris\Match.py	/^def print_history(match):$/;"	kind:function	line:82
+print_outline	../ThinkComplexity2\code\CADrawer.py	/^    def print_outline(self, fp):$/;"	kind:member	line:166
+print_outline	../ThinkComplexity2\code\Cell1D.py	/^    def print_outline(self, fp):$/;"	kind:member	line:188
+print_pdf	../ThinkComplexity2\code\Zipf2.py	/^    def print_pdf(self):$/;"	kind:member	line:106
+print_ranks	../ThinkComplexity2\code\Zipf.py	/^def print_ranks(hist):$/;"	kind:function	line:31
+print_ranks	../ThinkComplexity2\code\Zipf1.py	/^    def print_ranks(self):$/;"	kind:member	line:63
+print_ranks	../ThinkComplexity2\code\Zipf2.py	/^    def print_ranks(self):$/;"	kind:member	line:83
+print_table	../ThinkComplexity2\code\Cell1D.py	/^def print_table(table):$/;"	kind:function	line:127
+prob_connected	../ThinkComplexity2\code\thinkcomplexity.py	/^def prob_connected(n, p, iters=100):$/;"	kind:function	line:85
+probs	../ThinkComplexity2\code\iterPris\ZeroDeterminant.py	/^    probs = [1, 1\/8., 1, 1\/4.]$/;"	kind:variable	line:16
+process_file	../ThinkComplexity2\code\Zipf1.py	/^    def process_file(self, filename):$/;"	kind:member	line:50
+process_file	../ThinkComplexity2\code\Zipf2.py	/^    def process_file(self, filename):$/;"	kind:member	line:70
+process_word	../ThinkComplexity2\code\Zipf1.py	/^    def process_word(self, word):$/;"	kind:member	line:59
+process_word	../ThinkComplexity2\code\Zipf2.py	/^    def process_word(self, word):$/;"	kind:member	line:79
+profile	../ThinkComplexity2\code\Forest.py	/^    profile = False$/;"	kind:variable	line:162
+profile	../ThinkComplexity2\code\ForestFire.py	/^        import profile$/;"	kind:namespace	line:152
+profile_step	../ThinkComplexity2\code\ForestFire.py	/^    def profile_step(self):$/;"	kind:member	line:149
+ps	../ThinkComplexity2\code\Watts.py	/^ps = [0, 1e-4, 1e-3, 1e-2, 1e-1, 1e0]$/;"	kind:variable	line:46
+psd	../ThinkComplexity2\code\Fourier.py	/^def psd(H, N):$/;"	kind:function	line:38
+pyplot	../ThinkComplexity2\code\Forest.py	/^import matplotlib.pyplot as pyplot$/;"	kind:namespace	line:15
+pyplot	../ThinkComplexity2\code\Fourier.py	/^import matplotlib.pyplot as pyplot$/;"	kind:namespace	line:15
+pyplot	../ThinkComplexity2\code\Zipf.py	/^import matplotlib.pyplot as pyplot$/;"	kind:namespace	line:13
+pyplot	../ThinkComplexity2\code\cdf_example.py	/^import matplotlib.pyplot as pyplot$/;"	kind:namespace	line:12
+pyplot	../ThinkComplexity2\code\listsum.py	/^import matplotlib.pyplot as pyplot$/;"	kind:namespace	line:11
+r_avoid	../ThinkComplexity2\code\Boids.py	/^r_avoid = 0.3$/;"	kind:variable	line:23
+r_center	../ThinkComplexity2\code\Boids.py	/^r_center = 1.0$/;"	kind:variable	line:24
+r_copy	../ThinkComplexity2\code\Boids.py	/^r_copy = 0.5$/;"	kind:variable	line:25
+random	../SmallWorldGraphs\graphs.py	/^import random$/;"	kind:namespace	line:5
+random	../ThinkComplexity2\code\SmallWorldGraph.py	/^import random$/;"	kind:namespace	line:11
+random	../ThinkComplexity2\code\iterPris\Flipper.py	/^import random$/;"	kind:namespace	line:1
+random	../ThinkComplexity2\code\iterPris\SafeBet.py	/^import random$/;"	kind:namespace	line:1
+random	../ThinkComplexity2\code\iterPris\Smart.py	/^import random$/;"	kind:namespace	line:1
+random	../ThinkComplexity2\code\iterPris\TFTMemory.py	/^import random$/;"	kind:namespace	line:1
+random	../ThinkComplexity2\code\iterPris\Trustworthy.py	/^import random$/;"	kind:namespace	line:1
+random	../ThinkComplexity2\code\iterPris\ZeroDeterminant.py	/^import random$/;"	kind:namespace	line:7
+random	../ThinkComplexity2\code\iterPris\dbTriCon.py	/^import random$/;"	kind:namespace	line:1
+random	../ThinkComplexity2\code\iterPris\suspiciousProbingTFT.py	/^import random$/;"	kind:namespace	line:1
+random	../ThinkComplexity2\code\thinkcomplexity.py	/^import random$/;"	kind:namespace	line:8
+random	../ThinkComplexity2\code\thinkstats2.py	/^import random$/;"	kind:namespace	line:28
+randomSeed	../SmallWorldGraphs\graphs.py	/^def randomSeed(x):$/;"	kind:function	line:7
+random_pairs	../ThinkComplexity2\code\thinkcomplexity.py	/^def random_pairs(nodes, p):$/;"	kind:function	line:43
+random_vector	../ThinkComplexity2\code\Boids.py	/^def random_vector(a, b):$/;"	kind:function	line:42
+rank_freq	../ThinkComplexity2\code\Zipf.py	/^def rank_freq(hist):$/;"	kind:function	line:18
+rank_freq	../ThinkComplexity2\code\Zipf1.py	/^    def rank_freq(self):$/;"	kind:member	line:36
+rank_freq	../ThinkComplexity2\code\Zipf2.py	/^    def rank_freq(self):$/;"	kind:member	line:49
+re	../ThinkComplexity2\code\thinkstats2.py	/^import re$/;"	kind:namespace	line:29
+reachable_nodes	../ThinkComplexity2\code\thinkcomplexity.py	/^def reachable_nodes(G, start):$/;"	kind:function	line:64
+reachable_nodes_bfs	../ThinkComplexity2\code\thinkcomplexity.py	/^def reachable_nodes_bfs(G, start):$/;"	kind:function	line:210
+reachable_nodes_bfs	../ThinkComplexity2\code\thinkcomplexity.py	/^def reachable_nodes_bfs(G, start):$/;"	kind:function	line:222
+reachable_nodes_precheck	../ThinkComplexity2\code\thinkcomplexity.py	/^def reachable_nodes_precheck(G, start):$/;"	kind:function	line:95
+recursive_floyd_warshall	../ThinkComplexity2\code\SmallWorldGraph.py	/^    def recursive_floyd_warshall(self):$/;"	kind:member	line:176
+reset	../ThinkComplexity2\code\Sand.py	/^    def reset(self):$/;"	kind:member	line:28
+rewire	../ThinkComplexity2\code\SmallWorldGraph.py	/^    def rewire(self, p=0.01):$/;"	kind:member	line:308
+rewire	../ThinkComplexity2\code\thinkcomplexity.py	/^def rewire(G, p):$/;"	kind:function	line:133
+run	../ThinkComplexity2\code\Sand.py	/^    def run(self):$/;"	kind:member	line:53
+run	../ThinkComplexity2\code\iterPris\Match.py	/^    def run(self):$/;"	kind:member	line:25
+run_experiment	../ThinkComplexity2\code\thinkcomplexity.py	/^def run_experiment(ps, n=1000, k=10, iters=20):$/;"	kind:function	line:197
+run_one_graph	../ThinkComplexity2\code\thinkcomplexity.py	/^def run_one_graph(n, k, p):$/;"	kind:function	line:188
+save	../ThinkComplexity2\code\CADrawer.py	/^    def save(self, filename):$/;"	kind:member	line:51
+save	../ThinkComplexity2\code\CADrawer.py	/^    def save(self, filename='ca.eps'):$/;"	kind:member	line:143
+save	../ThinkComplexity2\code\CADrawer.py	/^    def save(self, filename='ca.gif'):$/;"	kind:member	line:122
+save	../ThinkComplexity2\code\CADrawer.py	/^    def save(self, filename='ca.png'):$/;"	kind:member	line:78
+save	../ThinkComplexity2\code\Cell1D.py	/^    def save(self, filename='ca.eps'):$/;"	kind:member	line:161
+save	../ThinkComplexity2\code\listsum.py	/^def save(root, exts=['eps', 'pdf']):$/;"	kind:function	line:115
+save	../ThinkComplexity2\code\thinkplot.py	/^save = Save$/;"	kind:variable	line:780
+scatter	../ThinkComplexity2\code\thinkplot.py	/^scatter = Scatter$/;"	kind:variable	line:768
+scipy	../ThinkComplexity2\code\Forest.py	/^import scipy.ndimage$/;"	kind:namespace	line:11
+scipy	../ThinkComplexity2\code\thinkstats2.py	/^import scipy$/;"	kind:namespace	line:39
+score	../ThinkComplexity2\code\iterPris\Match.py	/^    def score(self):$/;"	kind:member	line:59
+scummyPrisoner	../ThinkComplexity2\code\iterPris\scummyPrisoner.py	/^class scummyPrisoner():$/;"	kind:class	line:1
+scummyPrisoner.py	../ThinkComplexity2\code\iterPris\scummyPrisoner.py	1;"	kind:file	line:1
+set_goal	../ThinkComplexity2\code\Boids.py	/^    def set_goal(self, boids, carrot):$/;"	kind:member	line:134
+set_state	../ThinkComplexity2\code\ForestFire.py	/^    def set_state(self, state):$/;"	kind:member	line:212
+setup	../ThinkComplexity2\code\ForestFire.py	/^    def setup(self):$/;"	kind:member	line:18
+shortest_path	../ThinkComplexity2\code\SmallWorldGraph.py	/^        def shortest_path(i, j, k):$/;"	kind:function	line:181
+shortest_path_dfs	../ThinkComplexity2\code\thinkcomplexity.py	/^def shortest_path_dfs(G, start):$/;"	kind:function	line:331
+shortest_path_dijkstra	../ThinkComplexity2\code\thinkcomplexity.py	/^def shortest_path_dijkstra(G, start):$/;"	kind:function	line:235
+shortest_path_tree	../ThinkComplexity2\code\SmallWorldGraph.py	/^    def shortest_path_tree(self, s, hint=None):$/;"	kind:member	line:39
+shortest_path_tree2	../ThinkComplexity2\code\SmallWorldGraph.py	/^    def shortest_path_tree2(self, s, hint=None):$/;"	kind:member	line:82
+show	../ThinkComplexity2\code\CADrawer.py	/^    def show(self):$/;"	kind:member	line:117
+show	../ThinkComplexity2\code\CADrawer.py	/^    def show(self):$/;"	kind:member	line:140
+show	../ThinkComplexity2\code\CADrawer.py	/^    def show(self):$/;"	kind:member	line:47
+show	../ThinkComplexity2\code\CADrawer.py	/^    def show(self):$/;"	kind:member	line:74
+show	../ThinkComplexity2\code\thinkplot.py	/^show = Show$/;"	kind:variable	line:779
+show_cluster	../ThinkComplexity2\code\ForestFire.py	/^    def show_cluster(self, cluster):$/;"	kind:member	line:143
+single_source	../ThinkComplexity2\code\Sand.py	/^def single_source(pile, height=1024):$/;"	kind:function	line:96
+special	../ThinkComplexity2\code\thinkstats2.py	/^from scipy import special$/;"	kind:namespace	line:41
+start_random	../ThinkComplexity2\code\Cell1D.py	/^    def start_random(self):$/;"	kind:member	line:51
+start_single	../ThinkComplexity2\code\Cell1D.py	/^    def start_single(self):$/;"	kind:member	line:46
+start_single	../ThinkComplexity2\code\CircularCA.py	/^    def start_single(self):$/;"	kind:member	line:32
+start_string	../ThinkComplexity2\code\Cell1D.py	/^    def start_string(self, init):$/;"	kind:member	line:56
+stats	../ThinkComplexity2\code\thinkstats2.py	/^from scipy import stats$/;"	kind:namespace	line:40
+step	../ThinkComplexity2\code\Boids.py	/^    def step(self):$/;"	kind:member	line:163
+step	../ThinkComplexity2\code\Cell1D.py	/^    def step(self):$/;"	kind:member	line:66
+step	../ThinkComplexity2\code\Cell1D.py	/^    def step(self):$/;"	kind:member	line:92
+step	../ThinkComplexity2\code\Cell2D.py	/^    def step(self):$/;"	kind:member	line:50
+step	../ThinkComplexity2\code\Cell2D.py	/^    def step(self, iters=1):$/;"	kind:member	line:69
+step	../ThinkComplexity2\code\CircularCA.py	/^    def step(self):$/;"	kind:member	line:37
+step	../ThinkComplexity2\code\Forest.py	/^    def step(self):$/;"	kind:member	line:82
+step	../ThinkComplexity2\code\ForestFire.py	/^    def step(self):$/;"	kind:member	line:155
+step	../ThinkComplexity2\code\ForestFire.py	/^    def step(self):$/;"	kind:member	line:219
+step	../ThinkComplexity2\code\Life.py	/^    def step(self):$/;"	kind:member	line:39
+step	../ThinkComplexity2\code\Sand.py	/^    def step(self):$/;"	kind:member	line:88
+step	../ThinkComplexity2\code\Sand.py	/^    def step(self, K=3):$/;"	kind:member	line:33
+step	../ThinkComplexity2\code\Turmite.py	/^    def step(self):$/;"	kind:member	line:51
+step	../ThinkComplexity2\code\iterPris\AverageTitForTat.py	/^    def step(self, history, round):$/;"	kind:member	line:3
+step	../ThinkComplexity2\code\iterPris\CheckAndChoose.py	/^    def step(self, history, round):$/;"	kind:member	line:5
+step	../ThinkComplexity2\code\iterPris\Cooperate.py	/^    def step(self, history, round):$/;"	kind:member	line:3
+step	../ThinkComplexity2\code\iterPris\Defect.py	/^    def step(self, history, round):$/;"	kind:member	line:3
+step	../ThinkComplexity2\code\iterPris\Flipper.py	/^    def step(self, history, round):$/;"	kind:member	line:7
+step	../ThinkComplexity2\code\iterPris\Patrick.py	/^    def step(self, history, round):$/;"	kind:member	line:5
+step	../ThinkComplexity2\code\iterPris\ResponsiveTFTMod.py	/^    def step(self, history, round):$/;"	kind:member	line:10
+step	../ThinkComplexity2\code\iterPris\SafeBet.py	/^    def step(self, history, round):$/;"	kind:member	line:6
+step	../ThinkComplexity2\code\iterPris\Smart.py	/^    def step(self, history, round):$/;"	kind:member	line:7
+step	../ThinkComplexity2\code\iterPris\TFTMemory.py	/^    def step(self, history, round):$/;"	kind:member	line:6
+step	../ThinkComplexity2\code\iterPris\TitForTat.py	/^    def step(self, history, round):$/;"	kind:member	line:3
+step	../ThinkComplexity2\code\iterPris\TitForTwoTats.py	/^    def step(self, history, round):$/;"	kind:member	line:3
+step	../ThinkComplexity2\code\iterPris\Trustworthy.py	/^    def step(self, history, round):$/;"	kind:member	line:6
+step	../ThinkComplexity2\code\iterPris\ZeroDeterminant.py	/^    def step(self, history, round):$/;"	kind:member	line:21
+step	../ThinkComplexity2\code\iterPris\dbTriCon.py	/^    def step(self, history, round):$/;"	kind:member	line:9
+step	../ThinkComplexity2\code\iterPris\fifty_good.py	/^    def step(self, history, round_num):$/;"	kind:member	line:2
+step	../ThinkComplexity2\code\iterPris\scummyPrisoner.py	/^	def step(self, history, rd):$/;"	kind:member	line:2
+step	../ThinkComplexity2\code\iterPris\suspiciousProbingTFT.py	/^    def step(self, history, round):$/;"	kind:member	line:4
+step	../ThinkComplexity2\code\iterPris\suspiciousTitForTat.py	/^    def step(self, history, round):$/;"	kind:member	line:2
+step_burning	../ThinkComplexity2\code\ForestFire.py	/^    def step_burning(self):$/;"	kind:member	line:237
+step_empty	../ThinkComplexity2\code\ForestFire.py	/^    def step_empty(self):$/;"	kind:member	line:225
+step_round	../ThinkComplexity2\code\iterPris\Match.py	/^    def step_round(self):$/;"	kind:member	line:40
+step_tree	../ThinkComplexity2\code\ForestFire.py	/^    def step_tree(self):$/;"	kind:member	line:231
+string	../ThinkComplexity2\code\SmallWorldGraph.py	/^import string$/;"	kind:namespace	line:12
+string	../ThinkComplexity2\code\Watts.py	/^import string$/;"	kind:namespace	line:1
+string	../ThinkComplexity2\code\Zipf.py	/^import string$/;"	kind:namespace	line:11
+string	../ThinkComplexity2\code\Zipf1.py	/^import string$/;"	kind:namespace	line:2
+string	../ThinkComplexity2\code\Zipf2.py	/^import string$/;"	kind:namespace	line:2
+subplot	../ThinkComplexity2\code\thinkplot.py	/^subplot = SubPlot$/;"	kind:variable	line:760
+sum_extend	../ThinkComplexity2\code\listsum.py	/^def sum_extend(t, init):$/;"	kind:function	line:30
+sum_plus	../ThinkComplexity2\code\listsum.py	/^def sum_plus(t, init):$/;"	kind:function	line:22
+sum_sum	../ThinkComplexity2\code\listsum.py	/^def sum_sum(t, init):$/;"	kind:function	line:38
+suspiciousProbingTFT.py	../ThinkComplexity2\code\iterPris\suspiciousProbingTFT.py	1;"	kind:file	line:1
+suspiciousTitForTat	../ThinkComplexity2\code\iterPris\suspiciousTitForTat.py	/^class suspiciousTitForTat():$/;"	kind:class	line:1
+suspiciousTitForTat.py	../ThinkComplexity2\code\iterPris\suspiciousTitForTat.py	1;"	kind:file	line:1
+swampy	../ThinkComplexity2\code\CADrawer.py	/^            import swampy.Gui$/;"	kind:namespace	line:96
+sys	../ThinkComplexity2\code\Boids.py	/^    import sys$/;"	kind:namespace	line:198
+sys	../ThinkComplexity2\code\Cell2D.py	/^import sys$/;"	kind:namespace	line:11
+sys	../ThinkComplexity2\code\CircularCA.py	/^    import sys$/;"	kind:namespace	line:91
+sys	../ThinkComplexity2\code\Forest.py	/^    import sys$/;"	kind:namespace	line:160
+sys	../ThinkComplexity2\code\Fourier.py	/^    import sys$/;"	kind:namespace	line:70
+sys	../ThinkComplexity2\code\Life.py	/^import sys$/;"	kind:namespace	line:11
+sys	../ThinkComplexity2\code\LifeRabbits.py	/^import sys$/;"	kind:namespace	line:11
+sys	../ThinkComplexity2\code\SmallWorldGraph.py	/^    import sys$/;"	kind:namespace	line:389
+sys	../ThinkComplexity2\code\SmallWorldGraph.py	/^import sys$/;"	kind:namespace	line:13
+sys	../ThinkComplexity2\code\Turmite.py	/^import sys$/;"	kind:namespace	line:11
+sys	../ThinkComplexity2\code\Zipf.py	/^import sys$/;"	kind:namespace	line:10
+sys	../ThinkComplexity2\code\Zipf1.py	/^import sys$/;"	kind:namespace	line:1
+sys	../ThinkComplexity2\code\Zipf2.py	/^import sys$/;"	kind:namespace	line:1
+sys	../ThinkComplexity2\code\cdf_example.py	/^import sys$/;"	kind:namespace	line:10
+sys	../ThinkComplexity2\code\listsum.py	/^    import sys$/;"	kind:namespace	line:154
+t	../ThinkComplexity2\code\Watts_fig.py	/^t = []$/;"	kind:variable	line:3
+table	../ThinkComplexity2\code\Life.py	/^    table = np.zeros(20, dtype=np.uint8)$/;"	kind:variable	line:36
+table	../ThinkComplexity2\code\life_demo.py	/^table = np.zeros(20, dtype=np.uint8)$/;"	kind:variable	line:45
+test	../ThinkComplexity2\code\listsum.py	/^def test(name):$/;"	kind:function	line:55
+test_func	../ThinkComplexity2\code\listsum.py	/^def test_func(f, n):$/;"	kind:function	line:43
+text	../ThinkComplexity2\code\thinkplot.py	/^text = Text$/;"	kind:variable	line:767
+thinkcomplexity.py	../ThinkComplexity2\code\thinkcomplexity.py	1;"	kind:file	line:1
+thinkplot	../ThinkComplexity2\code\thinkstats2.py	/^import thinkplot$/;"	kind:namespace	line:34
+thinkplot.py	../ThinkComplexity2\code\thinkplot.py	1;"	kind:file	line:1
+thinkstats2.py	../ThinkComplexity2\code\thinkstats2.py	1;"	kind:file	line:1
+update	../ThinkComplexity2\code\Forest.py	/^    def update(self):$/;"	kind:member	line:113
+update_func	../ThinkComplexity2\code\Forest.py	/^update_func = numpy.vectorize(vfunc, [numpy.int8])$/;"	kind:variable	line:46
+vfunc	../ThinkComplexity2\code\Forest.py	/^def vfunc(con, rand, p=0.05, f=0.005):$/;"	kind:function	line:20
+visual	../ThinkComplexity2\code\Boids.py	/^import visual$/;"	kind:namespace	line:15
+vlines	../ThinkComplexity2\code\thinkplot.py	/^vlines = Vlines$/;"	kind:variable	line:764
+w_avoid	../ThinkComplexity2\code\Boids.py	/^w_avoid = 4$/;"	kind:variable	line:33
+w_center	../ThinkComplexity2\code\Boids.py	/^w_center = 3$/;"	kind:variable	line:34
+w_copy	../ThinkComplexity2\code\Boids.py	/^w_copy = 2$/;"	kind:variable	line:35
+w_love	../ThinkComplexity2\code\Boids.py	/^w_love = 10$/;"	kind:variable	line:36
+warnings	../ThinkComplexity2\code\thinkplot.py	/^import warnings$/;"	kind:namespace	line:16
+which_colors	../ThinkComplexity2\code\thinkplot.py	/^    which_colors = [[],$/;"	kind:variable	line:47
+world	../ThinkComplexity2\code\ForestFire.py	/^    world = Forest()$/;"	kind:variable	line:264
+x	../ThinkComplexity2\code\life_demo.py	/^x = 100$/;"	kind:variable	line:54
+zd	../ThinkComplexity2\code\iterPris\ZeroDeterminant.py	/^    zd = ZeroDeterminant()$/;"	kind:variable	line:30
